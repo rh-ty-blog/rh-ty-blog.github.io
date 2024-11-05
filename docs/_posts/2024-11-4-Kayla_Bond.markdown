@@ -5,26 +5,11 @@ date:   2024-09-13 12:58:15 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
-
-* burger
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-
 
 ## Monday
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
+On Monday morning we all came into the room together for the first time. We did an icebraker which was putting famous peoples names on our backs and haveing to go around the room intoducig yourself asking questions to try guess the person. Next we all sat down and went around the room saying our name and one iteresting facts. Then we got a tour from Becky of the office. We went back into the room and set up ur laptops. After that we went to the game area and got free food and drinks and to play the nintendo. After lunch we learned about agile work and made potato heads to learn the concept. Then we learned about the blog and made accounts.
 
 ---
 ## Tuesday
