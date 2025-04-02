@@ -14,7 +14,6 @@ categories: jekyll update
 
 
 ## Monday
-Today we first played an icebreaker game to get to know more people and feel more comfortable. Then we went on a tour of the offices which was interesting to see all the facilities and environment the programmers work in. After that we had a talk about the history of red hat which was quite interesting. we had our first break then in which I got to know a few of the lads as we played pool and mariokart. After our break we had a talk on health and safety. we then got to go on an early lunch in which we played a small bit more pool and mariokart. After lunch we had an interesting talk on agile and scrum followed by a practical to put what we had learned into practice. We did this by using mr potato heads as our product. We were split into three teams and assigned a product owner each. The product owner gave us a theme and we had to work together to create a potato head based on the Theme. We finished the day off by getting ourselves set up on the laptops. I enjoyed today and am looking forward to the week ahead.
 
 
 ---
@@ -24,13 +23,7 @@ Today we first played an icebreaker game to get to know more people and feel mor
 
 **This is the text area where you can enter your blog details for Monday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Today we first played an icebreaker game to get to know more people and feel more comfortable. Then we went on a tour of the offices which was interesting to see all the facilities and environment the programmers work in. After that we had a talk about the history of red hat which was quite interesting. we had our first break then in which I got to know a few of the lads as we played pool and mariokart. After our break we had a talk on health and safety. we then got to go on an early lunch in which we played a small bit more pool and mariokart. After lunch we had an interesting talk on agile and scrum followed by a practical to put what we had learned into practice. We did this by using mr potato heads as our product. We were split into three teams and assigned a product owner each. The product owner gave us a theme and we had to work together to create a potato head based on the Theme. We finished the day off by getting ourselves set up on the laptops. I enjoyed today and am looking forward to the week ahead.
 
 
 ---
@@ -46,7 +39,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
-Today we 
+Today we started by writing up our blogs for Monday. We followed this by learning about python through a presentation and then putting what we had learned into practice. We were able to code a rock paper scissors game which was very interesting. We then had a presentation on hacking passwords and got a chance to give what we learnt a go on a helpful website. We followed step by step and were able to hack passwords. I enjoyed today as I learnt lots of new skills. 
 ---
 
 
