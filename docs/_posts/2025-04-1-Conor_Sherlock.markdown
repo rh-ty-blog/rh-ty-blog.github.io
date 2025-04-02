@@ -35,7 +35,7 @@ Today we first played an icebreaker game to get to know more people and feel mor
 ---
 
 
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
+![Red Hat](https://hips.hearstapps.com/hmg-prod/images/people-playing-paper-rock-scissors-royalty-free-illustration-1583269312.jpg)
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
