@@ -49,21 +49,13 @@ Today we started by writing up our blogs for Monday. We followed this by learnin
 ---
 
 
-![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
+![Red Hat Tys](https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/rollercoaster.png?v=1692027366)
 
 **This is the text area where you can enter your blog details for Wednesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
-
----
-
+--
+Today we once again started with our stand up to make sure we are all on the same page with our work. Then we worked on our blog for tuesday. Once we had wrote that up we got a talk on the history of computing which I thought was quite interesting. We worked on our cyber skills then before lunch by saving a hospital from a hacker, we played this on a fun website. After lunch we worked on our teamwork skills by splitting into teams and building a rollercoaster. I thought that this was quite a fun and worthwhile activity as we worked well together and got to practise the agile and scrum techniques. I enjoyed today and I think that I learnt a lot.
 
 ## Thursday
 
