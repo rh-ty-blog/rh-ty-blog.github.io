@@ -63,19 +63,11 @@ Today we once again started with our stand up to make sure we are all on the sam
 ---
 
 
-![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
+![Terminal](https://vaswcd.org/wp-content/uploads/2018/06/0705161948.jpg)
 
 **This is the text area where you can enter your blog details for Thursday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
----
+Today we started the day by working on our blog for Wednesday. After that we listened to the town hall that was taking place. There was breakfast for us afterwards. We then listened to an interesting presentation on artificial Intellegience. I felt I learnt a lot from that presentation. We were then tought Bash. After lunch we made a presentation about Rain gardens which we then presented in pairs. lastly we finished off the day by writing our blogs. I enjoyed today and think i learnt lots.
 
 
 ## Friday
