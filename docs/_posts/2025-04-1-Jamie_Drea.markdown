@@ -63,8 +63,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 ## Wednesday
 
-We made a project on rain gardens we also started the bash code program and we were in an meeting strait after we had Breifest.
-
+We Made a rollacoaster out of 
 ---
 
 
@@ -86,6 +85,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 ## Thursday
 
+We made a project on rain gardens we also started the bash code program and we were in an meeting strait after we had Breifest.
 
 ---
 
