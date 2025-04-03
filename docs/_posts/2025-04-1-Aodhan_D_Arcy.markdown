@@ -64,19 +64,16 @@ At the end of the day, we got set up on the laptops provided for us, and logged 
 ---
 
 
-![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
+![Terminal](https://trcaca.s3.ca-central-1.amazonaws.com/app/uploads/2018/08/17162608/Rain-garden-cross-section.png)
 
-**This is the text area where you can enter your blog details for Thursday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+* In the morning, we had a town hall meeting, welcoming new people and discussing events.
+* Breakfast was served in the canteen, open for all.
+* We received a talk on AI and we learned how they operate on neural networks.
+* We learned Bash, and played a game of Pac-Man using what we learned.
+* We made presentations in pairs on rain gardens, and their environmental impact.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
----
+  ---
 
 
 ## Friday
