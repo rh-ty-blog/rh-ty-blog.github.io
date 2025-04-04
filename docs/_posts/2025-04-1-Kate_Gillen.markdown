@@ -18,9 +18,6 @@ categories: jekyll update
 
 ---
 
-
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
----
 ** Blog details for Monday **
 
 On Monday at 10 AM, I started my Transition Year (TY) work placement along with eight other students. The day was structured to help us settle in, get to know each other, and learn about the company.
@@ -46,7 +43,6 @@ Lastly we tried signing into our computours but unfourtionatly the wifi wouldn't
 ---
 
 
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
 
 **Blog details for Tuesday**
 
@@ -60,11 +56,14 @@ Overall the day was a great learning experience and I loved doing new things.
 
 ---
 ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZqZkpMyiN2uSuT7GAf6JSkJ44YsZqoQHdw&s)
-![logo](https://miro.medium.com/v2/resize:fit:1125/1*dDNpLKu_oTLzStsDTnkJ-g.png)
 ---
 
 
 ## Wednesday
+
+---
+
+**Blog details for Wednesday**.
 
 Now i am halfway done my workexperience at Redhat and i have had alot of fun and have meet so many new people. I arrived in at 9:10 am and we began the day recaping on what we had done trhe previous day. 
 
@@ -80,33 +79,28 @@ Overall today was productive and I learned alot.
 
 ---
 
-
-![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
-
-**This is the text area where you can enter your blog details for Wednesday**.
-
+![logo](https://miro.medium.com/v2/resize:fit:1200/1*shkC7Du70TDSPCR2iKAq5w.jpeg)
 
 ---
-
-
 ## Thursday
 
 
 ---
 
+**Blog details for Thursday**.
 
-![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
+Today was another exciting day at Red Hat! We started by reflecting on our experiences from the previous day and completing our blog posts. It was a great way to document what we had learned and set the tone for the day ahead.
 
-**This is the text area where you can enter your blog details for Thursday**.
+After breakfast, we joined a meeting with all the office staff. It was interesting to see how the team collaborates and communicates to keep everything running smoothly. Following the meeting, we had an insightful talk about Artificial Intelligence (AI), exploring its impact on technology and the world around us.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+The next session introduced us to Bash scripting, a powerful coding language used for automation and system management. Learning the basics of Bash was a fun challenge, and it gave us a deeper understanding of how computers process commands.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+After a well-earned lunch break, we shifted gears to work on our sustainability projects, focusing on rain gardens. These projects highlighted the importance of eco-friendly solutions and how technology can support sustainability efforts. Once we finished working on them, we took a short break before presenting our ideas to the group.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+To wrap up the day, we completed our blog posts, reflecting on everything we had learned. Overall, it was a productive and engaging day full of new knowledge and hands-on experience!
 
+---
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbgM9sawg1-jw2gbjuF_8k2D3p83H9oZ7jw&s)
 ---
 
 
