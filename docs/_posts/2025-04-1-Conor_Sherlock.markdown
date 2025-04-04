@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Conor sherlock Blog"
 date:   2025-02-5 12:58:15 +0100
 categories: jekyll update
 ---
@@ -14,12 +14,13 @@ categories: jekyll update
 
 
 ## Monday
+Today we first played an icebreaker game to get to know more people and feel more comfortable. Then we went on a tour of the offices which was interesting to see all the facilities and environment the programmers work in. After that we had a talk about the history of red hat which was quite interesting. we had our first break then in which I got to know a few of the lads as we played pool and mariokart. After our break we had a talk on health and safety. we then got to go on an early lunch in which we played a small bit more pool and mariokart. After lunch we had an interesting talk on agile and scrum followed by a practical to put what we had learned into practice. We did this by using mr potato heads as our product. We were split into three teams and assigned a product owner each. The product owner gave us a theme and we had to work together to create a potato head based on the Theme. We finished the day off by getting ourselves set up on the laptops. I enjoyed today and am looking forward to the week ahead.
 
 
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+![Red Hat Office](https://static.wikia.nocookie.net/disney/images/5/55/Profile_-_Mr._Potato_Head.jpeg/revision/latest?cb=20190313050826)
 
 **This is the text area where you can enter your blog details for Monday**.
 

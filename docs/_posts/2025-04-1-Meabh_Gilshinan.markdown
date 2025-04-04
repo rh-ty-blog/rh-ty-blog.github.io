@@ -1,16 +1,13 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Meabhs blog"
 date:   2025-02-5 12:58:15 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
+## Welcome To Meabhs Blog!
 
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
+* Hi! my name is Meabh!
 
 
 ## Monday
@@ -19,39 +16,27 @@ categories: jekyll update
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+![Red Hat Office](https://www.historymuseum.ca/wp-content/uploads/2015/11/Space_SPUD.jpg)
 
-**This is the text area where you can enter your blog details for Monday**.
+**Monday blog!**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+ We came in at ten and learned about Red Hat, health and safety and got a tour of the office. We learned about agility and then went for lunch.We used agility teamwork to make potato heads, we made a space one. We played mario-kart and pool in the canteen.At the end of the daywe got set up on the laptops. It was so fun!
+  
+---
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+
+## Tuesday ##
 
 
 ---
 
 
-## Tuesday
+![Red Hat](https://cdn.hashnode.com/res/hashnode/image/upload/v1637422966499/jx6h36yHp.jpeg)
 
+**Tuesday blog!**
 
----
-
-
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
-
-**This is the text area where you can enter your blog details for Tuesday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+At the start of the day we did our first stand-up where we explained what we did the day before.After we learned how to sign into Github and made our blogs explaining what we've done each day.After we finished our blogs for monday we made a rock-paper-scissors game in python wich took up most of the day and after lunch we cracked passwords.We did much more than the first day which was good, the python was fun!
 
 
 ---

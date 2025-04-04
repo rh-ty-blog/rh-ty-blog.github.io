@@ -1,35 +1,35 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Kate's Blog"
 date:   2025-02-5 12:58:15 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
+## Welcome To My Blog!
 
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
+* Today I came to RedHat for my work experience.
+* We got a office tour and we had a talk on agile adn then a activity to put it in practice.
+* At lunch we got to use the pool table and playu mario kart and had free food from the cafeteria.        
 
 
-## Monday
-
+## Monday 
 
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+![Red Hat Office](https://www.rosemet.com/wp-content/uploads/2024/07/WHATAR2.jpg)
 
-**This is the text area where you can enter your blog details for Monday**.
+## Work experience at RedHat
+* We started our day by meeting some of the employes and interns.
+* We did some ice breakers to get to know our group better.
+* We where then shown around the office and shown where evrything is.
+* We had our lunch in the cafeteria and played pool and Mario Kart
+* After lunch we had a talk on agile and then did an activity to put it into practice.
+* At the end of the day we set up our laptops for the next day and then went home.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+" I enjoyed my Day at Redhat and met lots of new People" 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
 ---
@@ -41,17 +41,18 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 ---
 
 
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
+![Red Hat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhO67Hh_oYsixbQBrdLqhzvBk5unFqNmdFw&s)
 
-**This is the text area where you can enter your blog details for Tuesday**.
+**Tuesday at RedHat**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+Today at RedHat we did lots of coding and other activities
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+* We started off our day by writng pur blogs using github.
+* we then did some actiities learing how to code using python and we made a RPS game.
+* We then had lunch and got to relax in the cafeteria and have the free food.
+* After lunch we did breaking a million codes excersise on the laptops.
+* Then we finsihed and went home for the day.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
 ---

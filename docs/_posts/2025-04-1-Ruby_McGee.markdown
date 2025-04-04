@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Ruby's blog entry"
 date:   2025-02-5 12:58:15 +0100
 categories: jekyll update
 ---
@@ -23,13 +23,16 @@ categories: jekyll update
 
 **This is the text area where you can enter your blog details for Monday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+On Monday morning we began with an icebreaker game to become familiar with the other students and interns names. After a brief introduction to the company from James, we were given a tour of the building from Jen. We got to see all the rooms and offices and then were given some time to look around ouselves. We met back fo a health and safety brief and then had lunch in the cafeteria. After lunch, we were given an Agile presentation from George and were then split into groups to put what we learned into practice. We built some spectacular MrPotato heads. Finally, we got set up and familiar with the laptops, and  day 1 came to an end.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+Agile helped us learn:
+* That we need better communication during teamwork.
+* That we should split our work evenly to become more efficient.
+* That we should make sure everybody is clear about our plan of action.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+![image](https://github.com/user-attachments/assets/f8d6e5d4-b79a-4802-bab4-cf2ba66291e0)
+
+Overall, Monday was an eductaional and worthwhile day getting introduced and familiar with RedHat and what goes on behind the scenes. 
 
 
 ---
@@ -45,13 +48,17 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+After our stand up on Tuesday morning, in which we each ran through an overview of what we completed on Monday and would be completing for the day ahead, we began on Github. We got logged in and began our write up blogs, starting with a recap of Monday. After this, we were given a presentation about the basics of python coding and began creating our own codes. We built a rock, paper, scissor game and a simple conversation with the computer. Lastly, we used our knowledge of python to complete a cyber security game, which gave us the task of cracking 1 million passwords.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+Tuesday helped me learn:
+* That even the 'simplest' codes require lots of effort.
+* How easy it is to make a mistake while coding, and how specific and careful you must be.
+* The basics of how hackers work.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+  ![image](https://github.com/user-attachments/assets/4c741f43-9ad4-446e-a21f-d18300cceae4)
+
+
+In conclusion, Tuesday was a really enjoyable and practical day, I feel confident in the basics of python coding and am excited to try more difficult versions later on in the week.
 
 
 ---
@@ -89,13 +96,16 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 **This is the text area where you can enter your blog details for Thursday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+After standup on Thursay, we had the pleasure of sitting in for the townhall meeting. New employees were introduced and the upcoming schedule for the next fortnight was discussed. After that, we had our spectacular hot breakfast. We then got straight back into the boardroom for a presentation about AI. After this, we learned about bash and played Pacman on bash. After returning from lunch, we began our sustainability projects. Our topic was rain  gardens and we had 40 minutes to prepare it using chatgbt before we presented.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+Today I learned:
+* How complex a simple question on AI is.
+* What a rain garden is.
+* How to use chatgbt (my first time using it)
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+
+  ![image](https://github.com/user-attachments/assets/691785a0-b4e3-406f-a0ae-012481791b97)
+Thursday was a very fun and actionpacked day, filled with many games of pool.
 
 ---
 
