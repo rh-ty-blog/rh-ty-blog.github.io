@@ -14,7 +14,6 @@ categories: jekyll update
 
 
 ## Monday
-Today we first played an icebreaker game to get to know more people and feel more comfortable. Then we went on a tour of the offices which was interesting to see all the facilities and environment the programmers work in. After that we had a talk about the history of red hat which was quite interesting. we had our first break then in which I got to know a few of the lads as we played pool and mariokart. After our break we had a talk on health and safety. we then got to go on an early lunch in which we played a small bit more pool and mariokart. After lunch we had an interesting talk on agile and scrum followed by a practical to put what we had learned into practice. We did this by using mr potato heads as our product. We were split into three teams and assigned a product owner each. The product owner gave us a theme and we had to work together to create a potato head based on the Theme. We finished the day off by getting ourselves set up on the laptops. I enjoyed today and am looking forward to the week ahead.
 
 
 ---
@@ -24,13 +23,7 @@ Today we first played an icebreaker game to get to know more people and feel mor
 
 **This is the text area where you can enter your blog details for Monday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Today we first played an icebreaker game to get to know more people and feel more comfortable. Then we went on a tour of the offices which was interesting to see all the facilities and environment the programmers work in. After that we had a talk about the history of red hat which was quite interesting. we had our first break then in which I got to know a few of the lads as we played pool and mariokart. After our break we had a talk on health and safety. we then got to go on an early lunch in which we played a small bit more pool and mariokart. After lunch we had an interesting talk on agile and scrum followed by a practical to put what we had learned into practice. We did this by using mr potato heads as our product. We were split into three teams and assigned a product owner each. The product owner gave us a theme and we had to work together to create a potato head based on the Theme. We finished the day off by getting ourselves set up on the laptops. I enjoyed today and am looking forward to the week ahead.
 
 
 ---
@@ -42,19 +35,11 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 ---
 
 
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
+![Red Hat](https://hips.hearstapps.com/hmg-prod/images/people-playing-paper-rock-scissors-royalty-free-illustration-1583269312.jpg)
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
-
+Today we started by writing up our blogs for Monday. We followed this by learning about python through a presentation and then putting what we had learned into practice. We were able to code a rock paper scissors game which was very interesting. We then had a presentation on hacking passwords and got a chance to give what we learnt a go on a helpful website. We followed step by step and were able to hack passwords. I enjoyed today as I learnt lots of new skills. 
 ---
 
 
@@ -64,21 +49,13 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 ---
 
 
-![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
+![Red Hat Tys](https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/rollercoaster.png?v=1692027366)
 
 **This is the text area where you can enter your blog details for Wednesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
-
----
-
+--
+Today we once again started with our stand up to make sure we are all on the same page with our work. Then we worked on our blog for tuesday. Once we had wrote that up we got a talk on the history of computing which I thought was quite interesting. We worked on our cyber skills then before lunch by saving a hospital from a hacker, we played this on a fun website. After lunch we worked on our teamwork skills by splitting into teams and building a rollercoaster. I thought that this was quite a fun and worthwhile activity as we worked well together and got to practise the agile and scrum techniques. I enjoyed today and I think that I learnt a lot.
 
 ## Thursday
 
@@ -86,19 +63,11 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 ---
 
 
-![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
+![Terminal](https://vaswcd.org/wp-content/uploads/2018/06/0705161948.jpg)
 
 **This is the text area where you can enter your blog details for Thursday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
----
+Today we started the day by working on our blog for Wednesday. After that we listened to the town hall that was taking place. There was breakfast for us afterwards. We then listened to an interesting presentation on artificial Intellegience. I felt I learnt a lot from that presentation. We were then tought Bash. After lunch we made a presentation about Rain gardens which we then presented in pairs. lastly we finished off the day by writing our blogs. I enjoyed today and think i learnt lots.
 
 
 ## Friday
@@ -107,12 +76,4 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 **This is the text area where you can enter your blog details for Friday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
----
+Today we started off by working on our blog.
