@@ -85,7 +85,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 ## Thursday
 
-We made a project on rain gardens we also started the bash code program and we were in an meeting strait after we had Breifest.
+We made a project on rain gardens we also started the bash code program and we were in an meeting straight after we had Breakfast.
 
 ---
 
@@ -106,6 +106,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 
 ## Friday
+
 
 ![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
 
