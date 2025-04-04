@@ -52,11 +52,12 @@ We learned how to print the phrase 'Hello World' and our name. We also made a ro
 
 ---
 
+
+
+
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
----
-
-Wednesday was my third day at Red Hat. We started the day with the stand-up and then we wrote our Tuesday blog. We then got a talk on cloud computing from James. He spoke about cloud computing, tech in the past, present and future and about the different jobs in Red Hat. After that we worked on our cybersecurity skills. I did the 'How to solve a murder' one and the encryption one. After lunch we had to make a rollercoaster with a loop out of paper straws, paper cups and tape. Our rollercoaster actually managed to loop a couple times. This activity was really fun and wedeveloped some teamwork skills. Overall today was one of the best days so far and I'm looking forward to the rest of the week.
+**This is the text area where you can enter your blog details for Wednesday**.
 
 
 ---
@@ -64,6 +65,11 @@ Wednesday was my third day at Red Hat. We started the day with the stand-up and 
 ![cloudcomputing](https://www.infoworld.com/wp-content/uploads/2025/03/2238873-0-40258000-1742376859-what-is-cloud-computing.jpg?quality=50&strip=all&w=1024)
 
 
+* Mauris laoreet fermentum ante, non pulvinar lectus. 
+* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
+* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+
+Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
 ---
@@ -76,6 +82,15 @@ Wednesday was my third day at Red Hat. We started the day with the stand-up and 
 
 ![ai](https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg)
 
+![bash](https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hhrcbgvutmdmducqkek.png)
+
+---
+
+Thursday was my fourth day at Red Hat. We started the day off as usual by writing our blogs. We then sat in on the town hall where some of the staff would come together to discuss different things and to introduce any new staff. It was a lot more informal than I thought it would be. After that we had a talk on AI. We were taught how AI works and how it evolved. After that we got started using Bash, which was kind of like using python. We played a pack man game on it. After lunch we made powerpoints on sustainability or rain gardens. We did ours on sustainability. We had to present in front of everybody and we watched others presentations.
+
+---
+
+![AI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbgM9sawg1-jw2gbjuF_8k2D3p83H9oZ7jw&s)
 
 ---
 We stareted Thursday off like everyday, writing our blog. We then were given a talk by Wolfgang on AI. He spoke about how AI works and its history. After that Krysztof gave us a talk on bash which was similar to python. We played a game called pack man where we had to find four ghosts - Inkey, Pinkey, Dinkey and Clyde and put them into jail. After lunch we made presentations on either sustainability or rain gardens. We did ours on sustainability. We presented in front of everyone else and watched everyones presentations.
