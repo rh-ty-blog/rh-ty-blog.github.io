@@ -89,7 +89,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 ![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
 
 **This is the text area where you can enter your blog details for Thursday**.
-
+today we started off by doing ur stand up for wednesday and the we also typed up our log for wednesday as well and then we learned abut AI and a bit about the history of it and how it works, then we started doing some bach stuff and we did a little game with it and had to put all the ghosts in to jail and to end the day we had to do a presentation on rain gardens and we had to presenet them to everyone and we had to do the presentation with the help of AI
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 
