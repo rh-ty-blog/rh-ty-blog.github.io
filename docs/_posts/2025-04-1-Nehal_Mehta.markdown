@@ -19,7 +19,7 @@ categories: jekyll update
 
 ---
 
-Monday was my first day of the Red Hat TY programme. We started of the day with a few ice breakes. We Played 20 questions and 2 truths and a lie. We then got a tour of the Red Hat building. We were given a health and safety presentation and then learned about agile and how to put it into practice by building potato heads. My group made a wild west themed one. After lunch we got set up on the laptops and connected to the internet. Overall i really enjoyed my first day at Red Hat and really liked getting to know everyone better.
+Monday was my first day of the Red Hat TY programme. We started of the day with a few ice breakers. We Played 20 questions and 2 truths and a lie. We then got a tour of the Red Hat building. We were given a health and safety presentation and then learned about agile and how to put it into practice by building potato heads. My group made a wild west themed one. After lunch we got set up on the laptops and connected to the internet. Overall i really enjoyed my first day at Red Hat and really liked getting to know everyone better.
 
   ---
 ![mr. potato head](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnFj1-RtWCsCR7XiffwLU-qemBk-Mql8OKkg&s)
@@ -53,11 +53,17 @@ We learned how to print the phrase 'Hello World' and our name. We also made a ro
 ---
 
 
+
+
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
 **This is the text area where you can enter your blog details for Wednesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+
+---
+
+![cloudcomputing](https://www.infoworld.com/wp-content/uploads/2025/03/2238873-0-40258000-1742376859-what-is-cloud-computing.jpg?quality=50&strip=all&w=1024)
+
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 
 * Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
@@ -74,6 +80,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 ---
 
+![ai](https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg)
 
 ![bash](https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hhrcbgvutmdmducqkek.png)
 
@@ -84,6 +91,14 @@ Thursday was my fourth day at Red Hat. We started the day off as usual by writin
 ---
 
 ![AI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbgM9sawg1-jw2gbjuF_8k2D3p83H9oZ7jw&s)
+
+---
+We stareted Thursday off like everyday, writing our blog. We then were given a talk by Wolfgang on AI. He spoke about how AI works and its history. After that Krysztof gave us a talk on bash which was similar to python. We played a game called pack man where we had to find four ghosts - Inkey, Pinkey, Dinkey and Clyde and put them into jail. After lunch we made presentations on either sustainability or rain gardens. We did ours on sustainability. We presented in front of everyone else and watched everyones presentations.
+
+---
+
+![sustainability](https://www.twi-global.com/CachedImage.axd?ImageName=What-is-Sustainability.jpg&ImageWidth=784&ImageHeight=379&ImageVersionID=102110&ImageModified=20201029133929)
+
 
 
 

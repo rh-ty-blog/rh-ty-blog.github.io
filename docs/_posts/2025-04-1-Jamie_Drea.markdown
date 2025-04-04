@@ -86,6 +86,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 ## Thursday
 
+We were in an meeting then straight after we have breakfast, we also did an project on Rain Gardens.
 
 ---
 
