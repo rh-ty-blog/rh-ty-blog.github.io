@@ -63,6 +63,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 ## Wednesday
 
+
 We were learning about the History of Computers and we all were building rollcoaster out of paper, cups and more.
 
 ---
@@ -86,7 +87,9 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 ## Thursday
 
-We were in an meeting then straight after we have breakfast, we also did an project on Rain Gardens.
+
+We made a project on rain gardens we also started the bash code program and we were in an meeting straight after we had Breakfast.
+
 
 ---
 
@@ -107,6 +110,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 
 ## Friday
+
 
 ![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
 
