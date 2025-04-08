@@ -1,35 +1,24 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Jemimas Blog Entry"
 date:   2025-04-08 13:35:00 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
-
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
-
+## welcome to Jemimas Blog!
+hey, my names Jemima Thompson and i attend Sutton Park School. I am doing one week of work experience with Red Hat and i am learning all about the ins and outs of the company.i am learning about things such as the plenty of different job positions that are available such as the actual software engineers to the consultants who work more with the customers. im learning about red hats achievements and its aims for the future. we are doing hands on activities to teach us new skills that are used here in the company, getting talks from workers about the finer details of their jobs and the steps they took to get to the position they are today and also learning the basics of using a compute. We have been learning different tools such as Git, Agile and Terminal.
 
 ## Monday
 
+Monday was my first day day at Red Hat work experience. We started the day with an introduction to red hat- what they do as a company, there aims, how they make money and the different jobs in the company. we were given this talk by Mark Mcloughlin who has been working with red hat for over 20  years now. He talked to us about how much he believes in the company and we heard about how the positive environment created here drives workers. We heard from Artem who talked to us about Agile, agile is a method that is used to efficiently get work done. Cathal played a game with us to impliment the teachings of agile. We were split into teams of three and had to complete a series of tasks when building a potato head. This taught me about the importance of team work and completing tasks efficiently but also being open and responsive to changes in the plan.
+https://www.heinzhistorycenter.org/wp-content/uploads/2016/02/Contemporary-Mr-Potato-Head.jpg
 
----
+Kevin and Anamiha talked to us about their time at red hat. They talked to us about how they got where they are today and their interests. i really enjoyed hearing Kevins story about when he was in 4th year he saw a problem ( dyslexia books and the lach of representation) and used his coding skills to create a app that helps to solve this problem. I think its really inspirational and shows that no matter your age you can learn coding skills and recognise problems that are around you. 
+
+Ivan Jennings talked to us about his role in Red hat after. I enjpyed this talk alot because i had thought that Red Hat was primarily Software Engineers but this talk opened up my eyes to the flip-side of this, actually selling the product. What Ivan does is he meets potential customers and explains what Red Hat can do to help them with their problems. I find his position very intersting and appealing to my interests because he works in the feild with customers actually 'selling the dream'.
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
-
-**This is the text area where you can enter your blog details for Monday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+i found monday very fun and very very informative. I have found i really like the atmosphere and working environment at Red Hat and i feel that the people working here genuinly love and care about their jobs.p
 
 
 ---
