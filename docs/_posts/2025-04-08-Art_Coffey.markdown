@@ -1,35 +1,23 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Art Coffey blog"
 date:   2025-04-08 13:35:00 +0100
 categories: jekyll update
 ---
 
 ## Welcome To Your Blog!
-
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
+Welcome to my blog on what I do working with the Red Hat Organazition for work experience
 
 
 ## Monday
 
+The first day of the work expeirence we got introduced to kevin, anamika, artem, cothal, kacper, Neri, Ivan and our manager Mark
 
----
 
 
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+The first day of the work expeirence we got introduced to kevin, anamika, artem, cothal, kacper, Neri, Ivan and our manager Mark
 
 
 ---
