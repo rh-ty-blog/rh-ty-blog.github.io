@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Ramim's Blog Entry!"
 date:   2025-04-08 13:35:00 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
+## Welcome To My Blog!
+Hi! My name is Ramim and this is my blog on my work experience at RedHat for 1 week. 
+I will be documenting my work on this blog!
 
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
+
+
 
 
 ## Monday
@@ -19,17 +19,10 @@ categories: jekyll update
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+![PXL_20250408_110307910](https://github.com/user-attachments/assets/bc97e915-b1af-4e82-90c1-41649b846095)
 
-**This is the text area where you can enter your blog details for Monday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+I was greeted at the waiting area on the ground floor by my teacher Mr. McLoughlin. He is the person that will be taking care of most of the work experience this week. We were brought up to the 5th floor which is where the RedHat office is. We got introductions from Mark and Cathal about who they are and what RedHat is. We did some team-building to get to know everyone else in the office from different schools. We had to guess the celebrity on the back of our backs by asking someone we don't know. After that, Kevin and Anamiha came in to talk about what they do and what they're working on. We then went outside for lunch early because the weather was amazing. When we came back in, Artem talked about the Agile system. It's where systems can be done and altered quicker than the waterfall method. We then implemented it in groups by making a certain version of Mr. Potato for the customer by using the Agile method. After that, Ivan talked about what he does in sales and his journey to RedHat. We went home early at 3:30.
 
 
 ---

@@ -1,20 +1,18 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  Amelia's Blog
 date:   2025-04-08 13:35:00 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
-
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
+## Welcome To Amelia's Blog!
+hello! my name is amelia doherty. I go to Mount Temple Comprehensive School and I am in Transition year
+yesterday lots of people talked to us about what type of role they play in the company, and what they did previously that led them to this postion. We learned about commands and different ways th company works suchas the Agile methodology. We played games on the computers and did teamwork activities building potato heads using the agile method.
 
 
 ## Monday
 
+on monday we were introduced to the people who work in the office. we were given a talk about what red hat does and what an open source enterprise is. we were given talks by a couple people, ivan, kevin,anamiha, artem and cathal. it was very interesting learning about how people got to there jobs and what they do now. they areall very passionate about their jobs. we learnt about a really important methoology called agile. It helps people get things done in the office. we played a game making potato heads using the agile methods in groups of three. 
 
 ---
 

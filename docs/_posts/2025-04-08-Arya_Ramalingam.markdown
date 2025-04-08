@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Arya Ramalingams Blog"
 date:   2025-04-08 13:35:00 +0100
 categories: jekyll update
 ---
@@ -23,13 +23,7 @@ categories: jekyll update
 
 **This is the text area where you can enter your blog details for Monday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Monday was our first day, we got an introduction to the week. First Mark and Cathal explained to us how they got into IT and how long they'd been there. Then we had some employees in to talk to us as well. Artem, kasper, Neri, Anamita, Kevin and Ivan came to talk to us yeterday, they spoke about how they used their ty and what made them want to do the role they have today. It was very interesting listening about their expenriences. After lunch Artem the intern thought us about Agile
 
 
 ---

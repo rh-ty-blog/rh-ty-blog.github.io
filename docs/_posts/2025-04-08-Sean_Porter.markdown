@@ -1,16 +1,24 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Sean's Blog Entry"
 date:   2025-04-08 13:35:00 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
+## Welcome To Sean's Blog!
 
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
+* This week I was in work experience in Red Hat Software engineering company.
+* This blog is going to take you through everything we do during the week.
+* Work Hours: Each day, we start at 10 AM and finish at 5 PM, giving us a full day of learning and hands-on experience.
+* Location: We’re based in the historic Old Central Bank building, which provides a unique and inspiring workspace.
+* Learning the Basics: Throughout the week, we’re diving into the fundamentals of coding, which is a great foundation for understanding the tech world.
+* Engaging with Experts: We’re also getting talks from different people at Red Hat and participating in various group activities that help us learn more about the company and its culture.
+
+
+
+
+
+
 
 
 ## Monday
@@ -18,18 +26,14 @@ categories: jekyll update
 
 ---
 
+On Monday morning, I came in the doors and we gathered in the reception. We were then shown to our desks and had to sign into our laptops. So, while we waited for everything to get working, Mark and Cathal gave us a quick intro about the office and what we’d be working on. 
+Then we did this icebreaker game where they stuck the name of a celebrity on our back, and we had to go around asking questions to figure out who we were. The celebrity on my back was Chloe Kardashian which was a difficult one to guess. 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+Later, after lunch in spar we went back to the room and Artem talked to us about agile. They explained it by giving us Mr. Potato Heads and a theme to design them around. We had to assign one person in our team as the owner, one person as the builder and one person designated to go and collected the parts, once at a time. 
 
-**This is the text area where you can enter your blog details for Monday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Overall, day one was basically just fun and games, but tomorrow we’re diving into blogs and learning about Fedora and terminals.
+         
+  ![image](https://github.com/user-attachments/assets/8655191a-6af0-450f-918f-93ec8d0c244d)
 
 
 ---

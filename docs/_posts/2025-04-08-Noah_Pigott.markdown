@@ -1,16 +1,13 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Noah Pigott"
 date:   2025-04-08 13:35:00 +0100
-categories: jekyll update
 ---
 
-## Welcome To Your Blog!
+## Welcome To my Blog!
 
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
+* Hi my name is noah and I am doing the ty course at red hat 
+* im really likking forward to continuing 
 
 
 ## Monday
@@ -21,18 +18,13 @@ categories: jekyll update
 
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+we did loads of fun activities on monday and i learned loads aswell we got an ofice tour as soon as we got there then we went in and got an introduction all about what red hat does and what there all about we did an icebreker game where we had to gusee a celebrity that was taped to our backthen we got a talk from artem about agile which is a consept to make doing a task alot eaiser then to put that into practice we did a challangt to see who could make a mr potato head the quickest and we even got off early.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+* we also had a talk from ivan about his part in red hat 
+* we got to play around with the computers to get comfortable 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
-
----
+overall i really enjoyed my first day at red hat and am looking forward to the rest of the week.
 
 
 ## Tuesday

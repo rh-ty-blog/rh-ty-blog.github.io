@@ -1,17 +1,9 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Fahd's Blog"
 date:   2025-04-08 13:35:00 +0100
 categories: jekyll update
 ---
-
-## Welcome To Your Blog!
-
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
-
 
 ## Monday
 
@@ -19,19 +11,14 @@ categories: jekyll update
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+![AGILE](https://assets.asana.biz/transform/f3519623-44e4-4506-8e1f-38cb74819c58/inline-agile-agile-methodology-1-2x?io=transform:fill,width:2560&format=webp)
 
-**This is the text area where you can enter your blog details for Monday**.
+* After arriving to RedHat, Marc and Cothal had a chat woith us and explained what RedHat is.
+* Afterwords, we did an icebreaker activity to get to know everone where we had the names of celebreties on our backs and had to guess who they were by asking three questions to each person. 
+* After that we learned about AGILE from Artem and used potato heads as a demonstration on how to use AGILE. 
+* Near the end of the day, we got set up on the laptops and got to do whatever we wanted on them for the last bit. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
-
+We got to leave early on monday so that was very nice.
 ---
 
 
