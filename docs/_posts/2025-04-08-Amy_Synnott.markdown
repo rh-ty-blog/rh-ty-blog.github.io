@@ -1,17 +1,13 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  Amy 
 date:   2025-04-08 13:35:00 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
+Amy's week at red hat 
 
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
-
+Here is an insite into my week of work expierence in Red hat- an it company.we learned lots of new interesting things.
 
 ## Monday
 
@@ -45,13 +41,12 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+We went to the office at 9:30 brought up to the office, 
+we loged into the laptops 
+heard about Jamie and Sonal's different jobs. I found that very interesting. 
+We got an introduction into coding opening files making new files downloading games i found that very interesting. 
+we went to lunch at quarted our ater to one 
+came back up and started our blog
 
 
 ---
