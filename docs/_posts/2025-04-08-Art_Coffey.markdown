@@ -11,13 +11,10 @@ Welcome to my blog on what I do working with the Red Hat Organazition for work e
 
 ## Monday
 
-The first day of the work expeirence we got introduced to kevin, anamika, artem, cothal, kacper, Neri, Ivan and our manager Mark
-
-
-
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-The first day of the work expeirence we got introduced to kevin, anamika, artem, cothal, kacper, Neri, Ivan and our manager Mark
+The first day of the work expeirence we got introduced to kevin, anamika, artem, cothal, kacper, Neri, Ivan and our manager Mark, we learned about Agile and waterfall techniques of doing things and how agile is better and we used the agile technique to put togther some potato heads
+https://www.google.com/imgres?q=potato%20head&imgurl=https%3A%2F%2Fmedia-cldnry.s-nbcnews.com%2Fimage%2Fupload%2Fnewscms%2F2021_08%2F3452724%2F210225-potato-head-jm-1402.jpg&imgrefurl=https%3A%2F%2Fwww.nbcnews.com%2Fnews%2Fus-news%2Fmister-no-more-mr-potato-head-goes-gender-neutral-n1258877&docid=i9fwhdfzC82mbM&tbnid=kW4QeKJ-bAVObM&vet=12ahUKEwiMlb2sw8iMAxXVRkEAHVwmKfwQM3oECEsQAA..i&w=1500&h=1000&hcb=2&ved=2ahUKEwiMlb2sw8iMAxXVRkEAHVwmKfwQM3oECEsQAA
 
 
 ---
