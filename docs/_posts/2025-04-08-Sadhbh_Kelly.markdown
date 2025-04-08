@@ -19,7 +19,7 @@ Basically a summary of what I got up to during my week in Red Hat TY course!
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
 
-N/A ( Was away on Gaisce hike ) 
+N/A ( Was away on Gaisce hike so missed the Monday ) 
 
 
 ---
@@ -36,7 +36,7 @@ N/A ( Was away on Gaisce hike )
 Went up to offices at 9:30 
 Mark gave us laptops as we weren't here yesterday. Showed us how to open up the terminal and type in instructions like pwd and cd. The keypad on mine doesn't work so Mark gve me a mouse for it.
 Met Neri and Casper and they talked about their jobs and studies. 
-Got an introduction to Bash script and tried coding games Mark found on ChatGPT. None of them were really any good but they were fun for a few minutes.
+Got an introduction to Bash script and tried coding games Mark found on ChatGPT. None of them were really any good but they were fun for a few minute. There was on that was  bit like the dino game on Google.
 Got a presentation from Jamie and Sonal on their jobs at Red Hat. Sounded very stressful... 
 Lookd at github and how to fork and make changes, then set up our own accounts.
 Had lunch break then
