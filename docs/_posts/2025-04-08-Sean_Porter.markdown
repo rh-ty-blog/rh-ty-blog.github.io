@@ -1,16 +1,24 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Sean's Blog Entry"
 date:   2025-04-08 13:35:00 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
+## Welcome To Sean's Blog!
 
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
+* This week I was in work experience in Red Hat Software engineering company.
+* This blog is going to take you through everything we do during the week.
+* Work Hours: Each day, we start at 10 AM and finish at 5 PM, giving us a full day of learning and hands-on experience.
+* Location: We’re based in the historic Old Central Bank building, which provides a unique and inspiring workspace.
+* Learning the Basics: Throughout the week, we’re diving into the fundamentals of coding, which is a great foundation for understanding the tech world.
+* Engaging with Experts: We’re also getting talks from different people at Red Hat and participating in various group activities that help us learn more about the company and its culture.
+
+
+
+
+
+
 
 
 ## Monday
