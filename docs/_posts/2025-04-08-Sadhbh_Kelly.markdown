@@ -1,16 +1,13 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title: Sadhbh's Blog 
 date:   2025-04-08 13:35:00 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
+## Welcome to Sadhbh's Blog
 
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
+Basically a summary of what I got up to during my week in Red Hat TY course!
 
 
 ## Monday
@@ -21,15 +18,8 @@ categories: jekyll update
 
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+N/A ( Was away on Gaisce hike ) 
 
 
 ---
@@ -41,17 +31,16 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 ---
 
 
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Tuesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Went up to offices at 9:30 
+Mark gave us laptops as we weren't here yesterday. Showed us how to open up the terminal and type in instructions like pwd and cd. The keypad on mine doesn't work so Mark gve me a mouse for it.
+Met Neri and Casper and they talked about their jobs and studies. 
+Got an introduction to Bash script and tried coding games Mark found on ChatGPT. None of them were really any good but they were fun for a few minutes.
+Got a presentation from Jamie and Sonal on their jobs at Red Hat. Sounded very stressful... 
+Lookd at github and how to fork and make changes, then set up our own accounts.
+Had lunch break then
+Updated blog
 
 
 ---
