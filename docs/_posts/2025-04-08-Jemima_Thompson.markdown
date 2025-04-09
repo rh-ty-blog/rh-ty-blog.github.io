@@ -27,24 +27,19 @@ i found monday very fun and very very informative. I have found i really like th
 ## Tuesday
 
 
----
-
-
+--
 ![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Tuesday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
 
 ---
+MY tuesday was really good. We had a talk in the mornings from one of the consultants (Jamie) who again taught us about the more interactive jobs in the business. He meets clients AFTER theyve decided to work with Red Hat and sort of teaches and simplifies the steps forward is going to work, he said that he spends the first few weeks of the deal in contact with the client but usually he hopes he doesnt hear from the often after that much. i found this talk enjoyable, learning about yet another job at Red Hat that is more of a feild position.
 
+We had a talk from an intern Kasper about different problems that can occur in AI and software and about how important it is to keep the software up to date to avoid hackers and vulnerabilities in the systems. We also learn some of the basics of using Bash. This was eye opening to the rapid pace that technology improves and gave me a good idea of how actually difficult it is for software companies to keep up to date with the changes.
+
+We learnt from Mark about how to use GITHUB. We learnt how to write a blog, how to use github such as pull requests, commiting etc. I actualy enjoyed this talk alot learning about the different languages that tech people use and also how they work efficiently in a collaborative space. 
+We also touched on learning how to link Terminal and GIt hub, we learnt that we can make changes on GIt hub through the terminal by using simple code. We learnt all about the different languages and th eway that local servers and websites work. We learnt from a diagram about how you need to downlaod the server, edit on your local computer and send it back out to the website. Its quite hard to explain and to demonstrate but i thought Mark made it relatively simple.
+
+At the end of the day we heard from         about his journey of becoming an architect in red hat.He told us a fascinating story of his journey through deciding what he wants to do with his life. He completed many college courses before realising his love for IT when he was teaching in Liverpool. i though that this talk was really eye opening to the pressures that we can be put under to decide what we want to do with our lives form such an early age but realistacilly we can tinker around and try out lots of different hobbie , jobs and thing before we find omstehing that we truly have a love for. He works in sales but in the more technical side of it which i find very appealing because it is sort of a nice balance of both. I thought he was a really good speaker and it was inspiring. 
 
 ## Wednesday
 
