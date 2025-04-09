@@ -6,7 +6,11 @@ categories: jekyll update
 ---
 
 ## Welcome To Your Blog!
+
 Learning about what RedHat does and also learning various IT and engineering skills over the course of the week.
+
+What i did during my time in RedHat.
+
 
 ## Monday
 
@@ -17,6 +21,7 @@ Learning about what RedHat does and also learning various IT and engineering ski
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
 **This is the text area where you can enter your blog details for Monday**.
+-3
 On Monday we started off the day by learning about what Red Hat is and what they do. We did some icebreakers to warm up and also listened to talks from various employees like Cathal, Ivan and Artem. They gave us a presentation on what specific job they did and how they got here, detailing their schooling experience and what their job entails. We then learned about Agile, and demonstrated our learning via a game/task were we had to build 2 specific potatos for a customer.
 
 * Learned about what RedHat is. 
@@ -24,6 +29,7 @@ On Monday we started off the day by learning about what Red Hat is and what they
 * Learned about Agile and applied our learning via a task. 
 
 Overall it was a fun and relatively easy day and I hope to learn more about IT and coding in the coming days.
+
 
 
 ---
@@ -38,6 +44,8 @@ Overall it was a fun and relatively easy day and I hope to learn more about IT a
 ![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
 
 **This is the text area where you can enter your blog details for Tuesday**.
+On Tuesday we started by learning about Command scripts. We leraned about fun commands we could use in the terminal such as 'mkdir new' and 'cowsay'. Afterwards we also recieved talks from more employees and their jobs such as a support engineer. Afterwards we created a GitHub account to log our RedHat experience.
+
 
 On Tuesday we started learning about command scripts and how to apply/have fun with them. We used different commands such as 'mkdir new' and 'sudo dnf install cowsay' to have fun with scripting. We also had more talks from more employees about their jobs and how it links to IT. Then we created a GitHub account to log our learning. 
 
@@ -45,7 +53,7 @@ On Tuesday we started learning about command scripts and how to apply/have fun w
 * Listened to more employees talk about their job here. 
 * Created a GitHub account to log our learning. 
 
-Today was very interesting with the command scripts and I am interested in learning how to apply them to everyday life such as games.
+
 
 
 ---

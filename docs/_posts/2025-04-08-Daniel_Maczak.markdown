@@ -1,20 +1,21 @@
----
+--
 layout: post
-title:  "Sample Blog Entry"
+title:  "Daniel's Blog Entry TEST"
 date:   2025-04-08 13:35:00 +0100
 categories: jekyll update
 ---
 
 ## Welcome To Your Blog!
+Hi! My name is Daniel and I am attending the TY Redhat Programme in One Central PLaza, Dublin City Centre
+What is Red Hat?
+-Red Hat is anWe were greeted Monday morning by all the Red Hat staff that were involved in the TY program, and many of the staff explained to us What Red Hat is about, what work they have done, and the history of Red Hat. open source company that mainly focuses on Software Engineering & Developing
+-Acquired by IBM July 9th 2019
+-Red Hat is known for its own open source projects such as Linux
 
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
-
+-I will be documenting my experiences throughout this week
 
 ## Monday
-
+I was greeted at the waiting area on the ground floor by my teacher Mark McLoughlin. He is the person that will be taking care of most of the work experience this week. We were first brought up to the 5th floor which is where the Red Hat office is. We got introductions from Mark and Cathal about who they are and what RedHat is. We did some team-building to get to know everyone else in the office from different schools. We had to guess the celebrity on the back of our backs by asking someone we don't know 3 questions about the celebrity and try our best to guess it . After that, Kevin and Anamiha came in to talk about what they do and what they're working on which is Software Engineers that were working on Emerging Technologies. We then went outside for lunch. When we came back in, Artem talked about the Agile system who is an Interim. It's where systems can be done and altered quicker than the waterfall method which is an older, less reliable agile system. We then implemented it in groups by making a certain version of Mr. Potato for the customer by using the Agile method. After that, Ivan talked about what he does in sales and his journey to RedHat. 
 
 ---
 
