@@ -23,7 +23,7 @@ categories: jekyll update
 
 **This is the text area where you can enter your blog details for Monday**.
 
-Monday was our first day, we got an introduction to the week. First Mark and Cathal explained to us how they got into IT and how long they'd been there. Then we had some employees in to talk to us as well. Artem, kasper, Neri, Anamita, Kevin and Ivan came to talk to us yeterday, they spoke about how they used their ty and what made them want to do the role they have today. It was very interesting listening about their expenriences. After lunch Artem the intern thought us about Agile
+Monday was our first day, we got an introduction to the company and what we would be doing this week. First Mark and Cathal explained to us how they got into IT and how long they'd been there. Then we had some employees in to talk to us as well. Artem, kasper, Neri, Anamita, Kevin and Ivan came to talk to us yeterday, they spoke about how they used their ty and what made them want to do the role they have today. It was very interesting listening about their expenriences. After lunch Artem the intern thought us about Agile.
 
 
 ---
