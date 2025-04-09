@@ -14,7 +14,12 @@ yesterday lots of people talked to us about what type of role they play in the c
 
 on monday we were introduced to the people who work in the office. we were given a talk about what red hat does and what an open source enterprise is. we were given talks by a couple people, ivan, kevin,anamiha, artem and cathal. it was very interesting learning about how people got to there jobs and what they do now. they areall very passionate about their jobs. we learnt about a really important methoology called agile. It helps people get things done in the office. we played a game making potato heads using the agile methods in groups of three. 
 
+## Tuesday
+tuesday was a very intersting day, we started learning the basics of github. we learnt about pll requests, forks and commits, we learned how to make commits on the terminal and push the to github. we got talks of some people, jamie, casper and donal. they were all very nice and again, they were very passionate about their jobs.
+
 ---
+
+
 
 
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
