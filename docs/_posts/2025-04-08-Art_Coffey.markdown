@@ -22,8 +22,8 @@ https://www.google.com/imgres?q=potato%20head&imgurl=https%3A%2F%2Fmedia-cldnry.
 
 ## Tuesday
 
+On the second day we mostly did github and terminal stuff and we had a talk from donal, jamie and kacper
 
----
 
 
 ![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
