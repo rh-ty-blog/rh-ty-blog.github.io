@@ -45,20 +45,12 @@ At the end of the day we heard from         about his journey of becoming an arc
 
 
 ---
+on wednesday we had a teambuilding day
+for the first few hours before lunch we completed a major team building task. THe people were sorted into teams of 3/4. In my group was two girls and two boys. Are task was to build a functioning rollercoaster with two loops. REflecting on the task my team didnt plan enough at the strat by using agile. We just jumped right in with all of our individual ideas and didnt come together at the beginning. From this task i learned the imporatance of working together and using Agile.  
 
+After lunch we were split into teams and we were to complete a powerpoint on Raingardens. I had a new group. We implemented AGile from the beginning by planning what the themes were going to be and also assigned each person to a smaller subtopic. I felt by usuing Agile we got all of our work done quickly and efficiently. We then had to present our powerpoint to the class and learned some usueful tips and trics from mark and cathal. We learnt about the importance of public speaking in every job.
 
-![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
-
-**This is the text area where you can enter your blog details for Wednesday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
+i felt that wednesday was alot of fun and wuite different to th eother days. I felt the team building excersises were fun but also had a really good underlying lesson abou the importance of Agile that i felt is going to help me in the future for future tasks!! I really enjoyed wednesday 
 
 ---
 
