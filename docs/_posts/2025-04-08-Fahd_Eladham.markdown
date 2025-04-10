@@ -28,17 +28,19 @@ We got to leave early on monday so that was very nice.
 ---
 
 
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
+![Github](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png)
 
-**This is the text area where you can enter your blog details for Tuesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+* To begin the day, we looked at marcs emails and talked about how communication in the company 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+* esterday, we started to learn about github.we started off simply by making our accounts.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+* After that, we started to write our blog on github and learned a bit more about terminal.
+
+* We edited our blogs in terminal and found some games we could play on it like bastet.
+
+* At the end of the day we received a talk from Donal about his work at red hat where we learned about his experience.
+
 
 
 ---
@@ -50,17 +52,20 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 ---
 
 
-![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
+![RollerCoaster](https://i.ytimg.com/vi/BQfEZE97ZXE/maxresdefault.jpg)
 
 **This is the text area where you can enter your blog details for Wednesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+* To start the day, we looked at marcs emails again
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+* Then, we were given the task of creating a rollercoaster with 2 loops using tinfoil, paper straws, toothpicks, tape and rubber bands while in a group of 3-4.
+
+* While we were building our rollercoasters, Caothal talked to us about the salary at red hat and how it was a very lucrative career
+  
+* It was very difficult and no group managed to run their rollercoaster and clear both loops
+ 
+* Afterwards, we talked about AI’s impact on the environment and made a presentation on rainbeds in groups.
 
 
 ---
@@ -103,7 +108,3 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 ---
 
-i hATE linux this is so fucking ass man
-
-
-222222222
