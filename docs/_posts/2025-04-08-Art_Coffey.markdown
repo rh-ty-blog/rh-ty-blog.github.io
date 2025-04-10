@@ -37,8 +37,8 @@ On the second day we mostly did github and terminal stuff and we had a talk from
 
 ## Wednesday
 
+On wednesday we had to build a rollercoaster with 2 loops in it out of straw, tinfoil, toothpicks, tape, rubber bands and we got a talk from donal spring
 
----
 
 
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
