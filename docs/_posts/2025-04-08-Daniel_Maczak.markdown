@@ -20,7 +20,7 @@ I was greeted at the waiting area on the ground floor by my teacher Mark McLough
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+![image](https://github.com/user-attachments/assets/390e2882-39f0-4c04-82b1-ef393fa9a5a1)
 
 **This is the text area where you can enter your blog details for Monday**.
 
@@ -42,7 +42,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 ---
 
 
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
+
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
