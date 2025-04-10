@@ -47,22 +47,7 @@ Updated blog
 
 
 ## Wednesday
-
-
----
-
-
-![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
-
-**This is the text area where you can enter your blog details for Wednesday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+We arrived into the office at about half 9 and came up to Red Hat. We started by sending a pr to mark from terminal but mine just wouldn't work so 3 people came down to look at my laptop and eventually Mark solved it so I could send him a pull request. Then Cathal, Mark's collegue, came to get us to do a team building exercise. I was in a group with Art and I think the other guys name was Sean... We had to make a rollercoaster with 2 loops in it, using tin foil, straws, wooden skers, tape ad rubber bands. We used a bouncy ball as the cart. We didn't do any planning and just jumped straight into it, which is proabaly why we didn't do very well. We spent about 2 hours building and managed to get the ball to go down the track and up half way of the loop de loop but that was as far as it got. Needless to say we didn't win. After that we went on lunch break and when we came back we did another team building exercise but this time we could choose our groups so I went with Mia and Amy. We had to make a presentation about Rain Gadens and we used chatgpt and canva then to present. After we had listened to everyones presentation we finished up for the day and went home.
 
 
 ---
