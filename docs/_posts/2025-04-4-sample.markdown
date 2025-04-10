@@ -1,4 +1,3 @@
 # Hello there
 
-
-![RSample pic from Tuesday](https://github.com/rh-ty-blog/rh-ty-blog.github.io/blob/main/docs/images/blog_photos/PXL_20250408_110307910.jpg "Sample Picture")
+![Sample pic from Tuesday](/docs/images/blog_photos/PXL_20250408_110307910.jpg "Sample Picture")
