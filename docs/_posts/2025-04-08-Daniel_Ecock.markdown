@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Daniels test Blog Entry"
 date:   2025-04-08 13:35:00 +0100
 categories: jekyll update
 ---
