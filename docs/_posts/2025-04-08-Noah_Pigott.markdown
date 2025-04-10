@@ -7,7 +7,7 @@ date:   2025-04-08 13:35:00 +0100
 ## Welcome To my Blog!
 
 * Hi my name is noah and I am doing the ty course at red hat 
-* im really likking forward to continuing 
+* im really looking forward to continuing on in the week 
 
 
 ## Monday
@@ -19,10 +19,10 @@ date:   2025-04-08 13:35:00 +0100
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
 
-we did loads of fun activities on monday and i learned loads aswell we got an ofice tour as soon as we got there then we went in and got an introduction all about what red hat does and what there all about we did an icebreker game where we had to gusee a celebrity that was taped to our backthen we got a talk from artem about agile which is a consept to make doing a task alot eaiser then to put that into practice we did a challangt to see who could make a mr potato head the quickest and we even got off early.
+we did loads of fun activities on monday and i learned loads aswell we got an ofice tour as soon as we got there then we went in and got an introduction all about what red hat does and what there all about we did an icebreker game where we had to guess a celebrity that was taped to our backthen we got a talk from artem about agile which is a consept to make doing a task alot eaiser then to put that into practice we did a challangt to see who could make a mr potato head the quickest we got some more talks from other employes about their role at red hat and we even got off early.
 
 * we also had a talk from ivan about his part in red hat 
-* we got to play around with the computers to get comfortable 
+* we got to play around with the computers to get comfortable
 
 overall i really enjoyed my first day at red hat and am looking forward to the rest of the week.
 
