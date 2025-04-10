@@ -36,17 +36,7 @@ Monday was our first day, we got an introduction to the company and what we woul
 
 
 ![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
-
-**This is the text area where you can enter your blog details for Tuesday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
+Tuesday morning, we were shown the memo emails sent out by the CEO of RedHat . Tuesday evening a few employees came in to talk to us about their job and how they got into their respective feild.
 
 ---
 
@@ -57,9 +47,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 ---
 
 
-![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
-
-**This is the text area where you can enter your blog details for Wednesday**.
+![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs"**This is the text area where you can enter your blog details for Wednesday**.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
