@@ -7,7 +7,7 @@ categories: jekyll update
 
 Amy's week at red hat 
 
-Here is an insite into my week of work expierence in Red hat- an it company.we learned lots of new interesting things.
+Here is an insite into my week of work expierence in Red hat- an IT company.we learned lots of new interesting things.
 
 ## Monday
 
@@ -28,8 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices d
 Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
----
-
+--
 
 ## Tuesday
 
@@ -46,7 +45,7 @@ we loged into the laptops
 heard about Jamie and Sonal's different jobs. I found that very interesting. 
 We got an introduction into coding opening files making new files downloading games i found that very interesting. 
 we went to lunch at quarted our ater to one 
-came back up and started our blog
+came back up and started our blog we began with it on the web then we did it on nano.
 
 
 ---
