@@ -23,7 +23,8 @@ categories: jekyll update
 
 **This is the text area where you can enter your blog details for Monday**.
 
-Monday was more of an introduction day for what our week will be like doing work experience for Redhat. First Mark and Cathal told us how they ended up in the IT sector and at Redhat, and how long they have been at Redhat for. 
+Monday was more of an introduction day for what our week will be like doing work experience for Redhat. First Mark and Cathal told us how they ended up in the IT sector and at Redhat, and how long they have been at Redhat for.
+ 
 We learned more about:
 * Agile
 * 
@@ -43,7 +44,7 @@ We learned more about:
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+So, on Tuesday we were taught about bash/sudo, which you run in the terminal as a way to run commands. Afterwards, we did a Git workshop, where we were taught about Github, how to sign up, and create pull requests and edit our blog post.  
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 
 * Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
@@ -65,14 +66,13 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 **This is the text area where you can enter your blog details for Wednesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+So, for Wednesday, we spent a lot of time on team building excerises. First, we got split into teams to try make a racetrack for a ball which has two loops. Everyone failed, but we managed to get 1.5 loops, and came joint first. It was good, and we split up the workload well, splitting ourselves into working on the loop, and the actual track. I got to speak to people I haven't spoken to yet and it was great. . 
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 
 * Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
 * Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
 
 Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
 
 ---
 
