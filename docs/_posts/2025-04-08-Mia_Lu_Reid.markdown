@@ -86,14 +86,11 @@ Overall I had a fun day today and I look forward to Python coding tomorrow.
 ![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
 
 **This is the text area where you can enter your blog details for Thursday**.
+First we review our blog for wednesday and sent pull requests. We also recieved two in-depth presentations on cloud computing from two employees. Afterwards we spent the rest of the day learning python coding and fixing different bugs in a game on python.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+* Reviewed our blog and made nessecary changes.
+* Rceieved a very interesting powerpoint on cloud computing and how the company is structured.
+* Learned python coding and applied our learning by fixing various bugs in a game.
 
 ---
 
