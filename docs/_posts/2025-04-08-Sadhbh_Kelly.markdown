@@ -60,32 +60,14 @@ We arrived into the office at about half 9 and came up to Red Hat. We started by
 
 
 ![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
-
-**This is the text area where you can enter your blog details for Thursday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+*.
+So we began the day by updating our blog again and sending a pull request to Mark. Then we had lots of people come to chat to us about their jobs. We had a man whos name I have forgotten but he talked about the different job oppertunities within Red hat. He gave me a ruler at the end for asking a question so that was nice. Then Casper chatted about his journey and told us about his rocky leaving cert and finally Fortune spoke about his journey and education. I love the name fortune I've never heard of anyone called that before. Anyway then we had lunch and after lunch we did some python coding and had to try and fix this paddle game but it was really difficult. I did it in the end but had to get A LOT of help. 
 
 ---
 
 
 ## Friday
 
-![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
-
-**This is the text area where you can enter your blog details for Friday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+We started the day by updating yesterdays blog and then we began to code using microsoft MakeCode. it was hard and we had to programme 2 little cards that go into a little car robot and we did that until lunch and then we had pizza for lunch. after lunch we raced the bots and we came dead last ... Anyway i really enjoyed the week - it was so different to anything I've ever done before.
 
 ---
