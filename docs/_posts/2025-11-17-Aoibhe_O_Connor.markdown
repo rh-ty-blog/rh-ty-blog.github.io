@@ -18,3 +18,19 @@ Our team evenly distributed the tasks and gathered the pieces to assemble our 'S
 Our next task was to construct a tower made only out of paper cups and tape that could withstand rocking the table or trying to blow it over. The tower we created was inspired by the pyramids and managed to stay standing.
 In the end, we had to reconstruct the tower to allow our 'Superhero Potato' to stand on top of it. We successfully managed to create a stable platform for the Potato Head to stand on by adding additional cups.
 This activity taught me a lot about teamwork and effective communication in a group. I really enjoyed this project and I hope to take part in more team-based activities.
+
+In summary, I highly enjoyed my first day at Red Hat. It was a lovely introductory day where I met new friends and settled into the new environment. I am looking forward to the coming days, where I hope to learn as much as I can!
+
+### Tuesday, November 18th ###
+
+Today was my second day taking part in Red Hat's Transition Year Programme. We had a busy schedule and learned plenty of new information!
+
+To begin the day, we had our daily stand-up with Jen. We were all encouraged to share our experiences from the previous day, mentioning what we learned and what we enjoyed about the day. It was nice to hear what aspects of the day that the staff and my peers found enjoyable and interesting.
+
+After our daily stand-up, we were given a presentation about GitHub. We learned what GitHub is, how it works and how to use it. We were provided with sheets of basic syntax that allows us to create headings and alter text. We all made accounts on GitHub and began writing our blogs. I am really enjoying writing on GitHub, as it allows me to reflect on my days at Red Hat and identify what experiences I found most valuable.
+
+Once we had completed some writing on GitHub, we moved onto Python. I found this part of the day to be challenging, but very rewarding! At first, Python seemed very complicated, but the staff guided us through how to use it and made it much easier to learn.
+
+After learning the basic commands of Python, we were taught how to make a simple 'Rock, Paper, Scissors' game. As I got used to the interface of Python, coding this game became much more enjoyable. It felt very rewarding to have your game successfully work after coding!
+
+
