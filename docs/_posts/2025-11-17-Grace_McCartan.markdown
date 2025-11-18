@@ -16,7 +16,7 @@ Yesterday (17th November) was my first day of work experience at **Red Hat**
 - [x] Learn how to make checkboxes, lists and sub-items
 - [ ] Figure out how to make tables.
 
-## Today (18th November) I will
+## Today (18th November) I will:
 - Learn how to make and edit this blog better
 - Learn some Python
 - Eat lunch
@@ -24,3 +24,4 @@ Yesterday (17th November) was my first day of work experience at **Red Hat**
 - Crack a million passwords (hyperbole?)
 
 Today is sure to be great!
+
