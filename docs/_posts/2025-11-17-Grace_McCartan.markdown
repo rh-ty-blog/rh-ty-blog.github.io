@@ -1,6 +1,6 @@
 # My Blog
 
-Yesterday (17th November) was my first day of work experience at **Red Hat**
+(17th November) was my first day of work experience at **Red Hat**
 + First I got signed in as a guest
 + Then I signed into my laptop
 + I went on a tour of the office and the canteen
@@ -16,12 +16,16 @@ Yesterday (17th November) was my first day of work experience at **Red Hat**
 - [x] Learn how to make checkboxes, lists and sub-items
 - [ ] Figure out how to make tables.
 
-## Today (18th November) I will:
+## 18th November (I will):
 - Learn how to make and edit this blog better
 - Learn some Python
+> I learned some basic things to do and made a game of rock paper scissors
+
 - Eat lunch
 - More Python
 - Crack a million passwords (hyperbole?)
+> Kind of. A million passwords was too much for my computer to load so I gave up, but there really was a million of them!
 
-Today is sure to be great!
+
+
 
