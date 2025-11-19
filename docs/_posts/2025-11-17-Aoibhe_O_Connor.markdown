@@ -1,13 +1,13 @@
 ## Red Hat TY Work Experience ##
 ### Monday, November 17th ###
-My name is Aoibhe O'Connor and I am spending this week at Red Hat's Transition Year Programme.
+Hello! My name is Aoibhe O'Connor and I am spending this week at Red Hat's Transition Year Programme.
 
 My aim going into this experience was to gain a better understanding of what working in a software engineering company would be like. I wanted to gain some coding skills and hopefuly make an informed decision about what career path I wish to take.
 
 On Monday morning, we all met at the reception to sign in and get our pictures taken. Going into this programme, I was the only student from my school and I was a bit nervous about meeting people who already had friends with them. We were given an introduction to all of the staff and then took a tour around the office.
 The working environment was very interesting, with lots of facilities that I never expected to be available, such as a room with a pool table and a Nintendo Switch!
 
-After making our way around the office, we took part in a Mario Kart Tournament on the Nintendo Switch. I found this experience very helpful: it allowed me to make new friends and have a fun time. 
+After making our way around the office, we took part in a Mario Kart Tournament on the Nintendo Switch. I found this experience very helpful; it allowed me to make new friends and have a fun time. 
 Once the tournament was complete, some of us played an interesting card game. Playing this game made me more confident around the people I had just met and made me feel more comfortable at Red Hat
 
 We took a lunch break for an hour and then returned to work. Anton gave us an informative presentation about agile and scrum. He taught us how to properly distribute tasks within a team, which I found to be applicable to my own life outside of Red Hat!
@@ -29,8 +29,22 @@ To begin the day, we had our daily stand-up with Jen. We were all encouraged to 
 
 After our daily stand-up, we were given a presentation about GitHub. We learned what GitHub is, how it works and how to use it. We were provided with sheets of basic syntax that allows us to create headings and alter text. We all made accounts on GitHub and began writing our blogs. I am really enjoying writing on GitHub, as it allows me to reflect on my days at Red Hat and identify what experiences I found most valuable.
 
-Once we had completed some writing on GitHub, we moved onto Python. I found this part of the day to be challenging, but very rewarding! At first, Python seemed very complicated, but the staff guided us through how to use it and made it much easier to learn.
+Once we had completed some writing on GitHub, we moved onto Python. I found this part of the day to be challenging, but very rewarding! At first, Python seemed very complicated, but the staff guided us through how to use it, making it much easier to learn.
 
-After learning the basic commands of Python, we were taught how to make a simple 'Rock, Paper, Scissors' game. As I got used to the interface of Python, coding this game became much more enjoyable. It felt very rewarding to have your game successfully work after coding!
+After learning the basic commands of Python, we were taught how to make a simple 'Rock, Paper, Scissors' game. As I got used to the basics of Python, coding this game became much more enjoyable. It felt very rewarding to have your game successfully work in the end!
+
+After lunch, we played a fun activity called 'Crack A Million Passwords'. We watched a video about how password encryption works that was informatve and very good to know. There were eight parts in total to the challenge, beginning with a simple task and then getting increasingly difficult each level. I thought that this activity was very fun and educational; it definitely encouraged me to strengthen my passwords!
+
+For the last fifteen minutes of the day, we updated our blogs -- which continued to be one of my favourite parts of the day! I love that I can put my writing skills to use during my time at Red Hat. As I continue to use GitHub, I am finding it much easier to navigate the site. 
+
+Overall, I enjoyed today just as much as yesterday! While we did a lot more work on our computers, I found this to be highly beneficial and gave me a greater understanding of computers. I also continued to have a great time with my new friends as we spent our lunch break playing pool. I am definitely starting to get used to spending the day at Red Hat and I hope that the days to come will be just as educational and fun as the past two days.
+
+### Wednesday, November 19th ###
+
+Today was my third day at Red Hat's Transition Year Programme. I arrived as usual at 09:20 to sign in at the reception and took my seat for our daily stand-up. During this time, everyone was given an opportunity to share their thoughts on the previous day, with most of us mentioning tasks such as GitHub, Python and the 'Crack A Million Passwords' activity. 
+
+
+
+
 
 
