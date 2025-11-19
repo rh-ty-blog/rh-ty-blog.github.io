@@ -10,4 +10,5 @@ Throughout the day, we undertook multiple team building excersises to help to ge
 ### Tuesday
 Our second day as part of the Red Hat TY course was more hands-on than yesterday. We first delved into the concepts of Git and GitHub as ways of sharing and developing programs and making them open source for the world to use, interact with and improve. Afterwards, we explored the basics of the Python programming language. I had already much experience with this language but I was not so familliar with using the terminal. This oppportunity allowed me to learn to use the basics of it and I think this will prove an important skill going into the future.
 
-<img width="2560" height="758" alt="image" src="https://github.com/user-attachments/assets/b01a3aab-75e1-47cc-b832-9a50b8335c08" />
+<img width="2000" alt="image" src="https://github.com/user-attachments/assets/b01a3aab-75e1-47cc-b832-9a50b8335c08" />
+
