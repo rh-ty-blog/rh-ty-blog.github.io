@@ -18,10 +18,16 @@ Yesterday (17th November) was my first day of work experience at **Red Hat**
 
 ## Today (18th November) I will:
 - Learn how to make and edit this blog better
+> :3
 - Learn some Python
+> I really liked this
 - Eat lunch
 - More Python
 - Crack a million passwords (hyperbole?)
+> Sort of, since my computer didn't have the time to process all the names
 
-Today is sure to be great!
-
+## Today (19th November) I will:
+- Learn about the history of computing
+- Learn about Bash and Command Line
+- Learn about student life
+- Complete an engineering task.
