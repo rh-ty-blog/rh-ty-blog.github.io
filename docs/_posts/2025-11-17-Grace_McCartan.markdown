@@ -28,6 +28,10 @@ Yesterday (17th November) was my first day of work experience at **Red Hat**
 
 ## Today (19th November) I will:
 - Learn about the history of computing
+  > Very interesting, learned about patterns in the development of new technology
 - Learn about Bash and Command Line
+  > Learned how to use commands to do things on the computer easily
 - Learn about student life
-- Complete an engineering task.
+  > Maybe don't look for a career in arts
+
+We also made rollercoasters out of straws and tape. Our group did ok (nobody fully fulfilled the brief)
