@@ -41,7 +41,15 @@
 - The first thing we did today was the daily stand-up. We then had the "History of Computers" talk. I loved this talk becuase I found it every interesting. History is one of my favourite subjects in school so seeing it in a computers context was very interesting. In the talk I also liked how James talked about all the different types of careers in IT. It showed that there really is something there for everyone.
 - After that we had a workshop on Bash coding. So far this has been my favourite coding workshop. I thought it was explained very well, and I understood what I was doing.
 - The most interesting part of the day was the "Student Life" talk. I found it really eye-opening to see that studying IT is a second career for most of the interns. This really helped me not worry so much about the future.
-- Our challenge today was a roller coaster building challenge. I found this challenge stressful. In the end my group found out that we had completed the challenge incorrectly. It was a great learning experience, and I enjoyed working with my group. 
+- Our challenge today was a roller coaster building challenge. I found this challenge stressful. In the end my group found out that we had completed the challenge incorrectly. It was a great learning experience, and I enjoyed working with my group.
+
+***What I Learnt Today***
+1. The history of computers
+2. Bash coding
+3. All different jobs
+
+
+
 
 
 
