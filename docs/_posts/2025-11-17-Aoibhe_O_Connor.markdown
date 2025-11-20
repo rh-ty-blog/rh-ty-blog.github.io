@@ -43,11 +43,24 @@ Today was my third day at Red Hat's Transition Year Programme. I arrived as usua
 
 After our daily stand-up, James gave us a really interesting presentation about the history of computing. He discussed the evolution of technology and prompted us to think about what technology might be available in the future. He also told us about many of the different jobs that are available to those who study computer science, which I found very useful and encouraged me to further consider studying computer science at university. Overall, James provided us with lots of facts and advice that I will carry with me beyond this week at Red Hat.
 
-Later on, Grainne gave us a presentation on Bash. She made this experience very fun by making us match the command to the definition in pairs. We were taught the basic terminology of Bash and put our knowledge to practice in the terminal.  
+Later on, Grainne gave us a presentation on Bash. She made this experience very fun by making us match the command to the definition in pairs. We were taught the basic terminology of Bash and put our knowledge to practice in the terminal. I found bash to be quite similar to Python, yet so different in other ways! Similar to Python, it was challenging at the beginning, but I got a better grasp of it as we progressed. Learning to code is definitely an enjoyable part of every day here at Red Hat. 
 
 We then had the opportunity to hear from the interns about student life. They gave us plenty of valuable advice about choosing a career and assured us that the Leaving Cert does not define our future! Their words gave me a lot of clarity on choosing a university course, especially since I am drawn to creative ventures.
 
-Finally, we had a two-hour engineering task where we had to build a rollercoaster made from only straws and tape. It had to have a loop and carry the weight of a tennis ball. Our group focused on building a 
+Finally, we had a two-hour engineering task where we had to build a rollercoaster made from only straws and tape. It had to have a loop and carry the weight of a tennis ball. Our group focused on building a sturdy coaster that would definitely hold the weight of the ball. Unfortunately, this meant that we could not make it very complicated due to the two-hour time limit. While our design was simple, it did not collapse under the weight of the ball. I learned a lot from this activity, especially the importance of teamwork and time management. 
+
+Overall, I found today to be challenging in some areas, but I also learned lots of skills and plenty of valuable lessons. I am continuing to enjoy my time at Red Hat and I hope that my final two days of work experience will be just as memorable!
+
+### Thursday, November 20th ###
+
+Today was my fourth day of work experience at Red Hat. Today, we undertook even more new projects and learned lots about several different subjects.
+At the beginning of the day, Nigel began our daily stand-up. I continue to find it valuable to hear feedback from my peers about what areas they enjoyed, comparing it to my own experiences.
+
+At 10:00 we all took a break and left the room to have breakfast. There was a large selection of food available for everyone to have. We sat down and ate for thirty minutes, where I got a chance to discuss the day ahead with my friends.
+
+After our breakfast, we got back to work where we received a presentation about AI from James. He quizzed us on AI application logos and told us about how to properly use AI -- as well as how not to use it!
+James then introduced us to Notebooklm
+
 
 
 
