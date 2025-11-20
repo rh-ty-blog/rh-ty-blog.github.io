@@ -24,3 +24,12 @@ few technical difficultys but we survived.
 We went out on lunch then got few snacks 
 By the end of the day we did an engineraing task, We had to build roaler coasters as a team that a bal could roal on that was fun
 
+# Thursday
+
+Today in redhat we got our daily standup done then got to get there thursday breakfast, We had a large sellection of food it was good they had a very nice bisscoff crosaunt.
+After eating we went and did another talk / activity with james about ai we used **notebookLM** We used a random story mine was about ireland is playoff run and it gave me a whole podcast and quiz if i requested on it, very facinating stuff.
+We then before lunch did an activity with sean on teaching Ai robots on how to spot coral and fish to help clean the mexican oil spill at the bottom of the ocean. That was cool we had to match pictures from the robot with the scientific name of the diffrent coral.
+We then where on break and got food and some more pool. When we got out of lunch we went doing a presentation on a subtainability project on **rain** **gardens** I was with Kai. It was good and the class liked it as well . In my spare time I copyed and pasted a guesss the number game i coaded last night on my laptop at home to this one and showed it to one the internes he thought it was great.
+
+
+
