@@ -1,8 +1,6 @@
 ## Red Hat TY Work Experience ##
 ### Monday, November 17th ###
-Hello! My name is Aoibhe O'Connor and I am spending this week at Red Hat's Transition Year Programme.
-
-My aim going into this experience was to gain a better understanding of what working in a software engineering company would be like. I wanted to gain some coding skills and hopefuly make an informed decision about what career path I wish to take.
+Hello! My name is Aoibhe O'Connor and I am sixteen years old. I am in Transition Year at St. Augustine's College, Dungarvan. My hobbies include drawing and painting, reading, writing, playing music and playing video games. I chose to apply for a week's work experience at Red Hat after a great experience I had doing a coding programme with 'Girls Who Code' called the 'Summer Immersion Programe' in 2023. During that time, I found joy in coding but sadly never had time to pick it up again. By spending this week at Red Hat's Transition Year Programme, I hope to revive this interest and gain a better understanding of what working in a software engineering company would be like. I hope that this experience will help me to make an informed decision about what career path I wish to take.
 
 On Monday morning, we all met at the reception to sign in and get our pictures taken. Going into this programme, I was the only student from my school and I was a bit nervous about meeting people who already had friends with them. We were given an introduction to all of the staff and then took a tour around the office.
 The working environment was very interesting, with lots of facilities that I never expected to be available, such as a room with a pool table and a Nintendo Switch!
@@ -42,6 +40,10 @@ Overall, I enjoyed today just as much as yesterday! While we did a lot more work
 ### Wednesday, November 19th ###
 
 Today was my third day at Red Hat's Transition Year Programme. I arrived as usual at 09:20 to sign in at the reception and took my seat for our daily stand-up. During this time, everyone was given an opportunity to share their thoughts on the previous day, with most of us mentioning tasks such as GitHub, Python and the 'Crack A Million Passwords' activity. 
+
+After our daily stand-up, James gave us a really interesting presentation about the history of computing. He discussed the evolution of technology and prompted us to think about what technology might be available in the future. He also told us about many of the different jobs that are available to those who study computer science, which I found very useful and encouraged me to further consider studying computer science at university. Overall, James provided us with lots of facts and advice that I will carry with me beyond this week at Red Hat.
+
+Later on, Grainne gave us a presentation on Bash. She made this experience very fun by making us match the command to the definition in pairs. We were taught the basic terminology of Bash and put our knowledge to practice in the terminal.  
 
 
 
