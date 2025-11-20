@@ -37,4 +37,10 @@ Yesterday (17th November) was my first day of work experience at **Red Hat**
 
 We also made rollercoasters out of straws and tape. Our group did ok (nobody fully fulfilled the brief)
 
+## On the 20th (Thursday), I:
+- We had breakfast in the company, which was very nice
+- We learned about AI, specifically NotebookLM, which is interesting because unlike ChatGPT, *you* provide the source material
+- After that, we worked on the Coral Reef Consensus project, which asks volunteers to go online and identify corals from images. This data is used to train an AI that will identify the corals faster than a person could once it is trained.
+- After that, we had to make a presentation about Rain Gardens, which I think went well
+
 
