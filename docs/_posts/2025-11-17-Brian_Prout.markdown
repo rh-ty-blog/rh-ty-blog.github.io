@@ -1,0 +1,11 @@
+##Red Hat Work Experience
+---
+My name is Brian. I am 17 years old and am in 5th year at Ardscoil Na Mara. I live in Butlerstown in the countryside. I am doing TY work eperience at Red Hat because I skipped TY, so I asked Ms. Lonergan if I could and she agreed. I am enjoying my time here so far, since I bet everybody at mario kart.
+ ---
+Tuesday - We started off today with a daily stand-up, where I reminded everybody that I bet them all at mariokart. We then learned how Git/Github works through a talk, with some interactive segments, aswell as blogs. We also had an introductary course to python, where we leaned about different commands, such as if, ifls and else statements. We then had lunch and I tried out the hot-chocolate from the fancy machine-yoke that can make a wide variety of heated beverages.We then did a small bit more python after the break, where we made a rock paper scissors game, although it wasn't very fun sine the robot always chose rock, just like my brother does. Finally, we did an online exercise called 'crack a million passwords' where we went through how passwords are cracked using leaked information and decyphering which hash function to use through trial and error. We didn't actually crack the million passwords though since it would of taken us far more than 30 minutes to go through them.
+---
+Wednesday - We just had our daily stand-up. I found it to be an enjoyable thing, even though I could hear my heartbeat. James gave us a talk on the history of computing which most of us found very interesting, and he even included a story about his old startup company where a fake-santa flight managed to shut down a whole airlines app tht they were hosting on their servers. We also got a 'student life' talk where we discovered that we are able to change our career path whenever we want in life, and that it's best to stick away from arts degrees. I also played Switch Sports bowling with Tjay and Kai at lunch. We finished off with a team-building exercise where we were split into three groups of four and built roller-coasters from paper straws. That was great since we learned a lot about working together and needing to lock-in from the beginning, instead of dossing around until the last thirty minutes of the exercise.
+---
+
+
+
