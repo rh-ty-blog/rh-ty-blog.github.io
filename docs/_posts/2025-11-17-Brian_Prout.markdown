@@ -6,7 +6,8 @@ Tuesday - We started off today with a daily stand-up, where I reminded everybody
 ---
 Wednesday - We just had our daily stand-up. I found it to be an enjoyable thing, even though I could hear my heartbeat. James gave us a talk on the history of computing which most of us found very interesting, and he even included a story about his old startup company where a fake-santa flight managed to shut down a whole airlines app tht they were hosting on their servers. We also got a 'student life' talk where we discovered that we are able to change our career path whenever we want in life, and that it's best to stick away from arts degrees. I also played Switch Sports bowling with Tjay and Kai at lunch. We finished off with a team-building exercise where we were split into three groups of four and built roller-coasters from paper straws. That was great since we learned a lot about working together and needing to lock-in from the beginning, instead of dossing around until the last thirty minutes of the exercise.
 ---
-Thursday - We once again started off with a daily stand-up. We had breakfast at ten and it was FREE so i grabbed three sausages, a jambon, a blaa and a hot chocolate. 
+Thursday - We once again started off with a daily stand-up. We had breakfast at ten and it was FREE so i grabbed three sausages, a jambon, a blaa and a hot chocolate. We were told how to use notebooklm, which is a small language model made by google where you can give it specific information which it analyses, and
+
 
 
 
