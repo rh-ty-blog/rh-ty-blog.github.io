@@ -12,3 +12,5 @@ Our second day as part of the Red Hat TY course was more hands-on than yesterday
 
 <img width="2000" alt="image" src="https://github.com/user-attachments/assets/b01a3aab-75e1-47cc-b832-9a50b8335c08" />
 
+### Wednesday
+Wednesday, in comparison to the previous two days, was more talk-oriented, we recieved muliple talks on the history of computing mixed with the history of the cloud and the different carrer paths that current interns at Red Hat underwent that wound in many different ways before ening up working here. I found it intriguing to discover that there are are so many varied options and ways to change from job to job. We also got to dabble briefly in the Bash programming language and terminal...
