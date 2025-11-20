@@ -15,4 +15,6 @@ Our second day as part of the Red Hat TY course was more hands-on than yesterday
 ### Wednesday
 Wednesday, in comparison to the previous two days, was more talk-oriented. We recieved muliple talks on the history of computing, the workings of the cloud and the different carrer paths that current interns at Red Hat underwent that wound in many different ways before ening up in the organisation. I found it intriguing to discover that there are are so many varied options and pathways to navigate from job to job. We also got to dabble briefly in the Bash programming language and took a deeper look into the terminal. Finally, in small groups, we undertook an engineering project where we had to construct a rollercoaster from paper straws and tape. This was definetly a very informative and enjoyable day and I learned much from it.
 
+![20251119_160005](https://github.com/user-attachments/assets/9429c27c-adb3-4c0b-8745-6389d7f498c2)
+
 
