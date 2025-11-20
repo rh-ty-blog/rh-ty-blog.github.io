@@ -18,7 +18,10 @@
 
 - My favourite part of the day was getting to play the games. Playing the games allowed me to get to know both the other TYs in the programme and the staff that works at RedHat
 
-**Daily Blog 12/11/2025**
+![unnamed](https://github.com/user-attachments/assets/cca2ed7f-2efd-4a7c-bb01-9387d7a0c0d2)
+
+
+**Daily Blog 18/11/2025**
 
 ***What We Did Today***
 
@@ -34,7 +37,7 @@
 ***My Favourite Part of the Day***
 - My favourite part of the day was the daily stand-up. I really liked getting to know how everyone found the first day.
 
-**Daily Blog**
+**Daily Blog 19/11/2025**
 
 ***What We Did Today***
 
@@ -47,6 +50,13 @@
 1. The history of computers
 2. Bash coding
 3. All different jobs
+
+***My Favourite Part of the Day***
+My favourite part of the day was "The History of Computers" talk. I found this talk really interesting becuase as I said before I love history so this talk was right up my street. It was so interesing and also imformative. It showed me that there is a lot of different carrers in IT. I will defenitely be researching some of the careers that were mentioned. 
+
+**Daily Blog 20/11/205**
+
+
 
 
 
