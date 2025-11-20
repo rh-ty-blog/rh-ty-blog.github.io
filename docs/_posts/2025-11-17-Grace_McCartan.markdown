@@ -1,5 +1,6 @@
 # My Blog
 
+My name is Grace McCartan. I am 16 years old and I go to Ardscoil na Mara in Tramore. I heard about this program through a friend of my dad's
 Yesterday (17th November) was my first day of work experience at **Red Hat**
 + First I got signed in as a guest
 + Then I signed into my laptop
@@ -35,3 +36,4 @@ Yesterday (17th November) was my first day of work experience at **Red Hat**
   > Maybe don't look for a career in arts
 
 We also made rollercoasters out of straws and tape. Our group did ok (nobody fully fulfilled the brief)
+
