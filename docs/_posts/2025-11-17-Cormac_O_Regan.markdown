@@ -15,3 +15,9 @@ On the second day we had our regular Stand-Up meeting with Jen for half an hour.
 At eleven we had a talk and a workshop with Linh and Noemi about coding and the use of python, I found this very interesting and enjoyable. I think Daniel was very helpful with the tasks we were given on python.
 At three we had a task to crack passwords with Nigel, the task was called 'One million passwords'. I found this very challenging.
 
+
+**19/11/25**
+
+Starting off on the third day we arrived a bit late due to road works at Carroll's Cross with a very heavy traffic backlog. I think we had only just missed the end of the morning Stand-up. After the Stand-up we had a very interesting talk with James about the 'History of Computing' ,it was mostly about the evolution of data storage, the web and then at the end he introduced us into some of the career's that align with the software sector. Then we had a workshop with Grainne and the use of Bash. We used Bash for roughly over an hour, I thought Bash was much more challenging then Nano and Python, I'm not too sure why to be totally honest. Once we finished this workshop we had our lunch from 1-2
+
+
