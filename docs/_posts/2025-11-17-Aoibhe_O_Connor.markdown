@@ -47,7 +47,8 @@ Later on, Grainne gave us a presentation on Bash. She made this experience very 
 
 We then had the opportunity to hear from the interns about student life. They gave us plenty of valuable advice about choosing a career and assured us that the Leaving Cert does not define our future! Their words gave me a lot of clarity on choosing a university course, especially since I am drawn to creative ventures.
 
-Finally, we had a two-hour engineering task where we had to build a rollercoaster made from only straws and tape. It had to have a loop and carry the weight of a tennis ball. Our group focused on building a 
+Finally, we had a two-hour engineering task where we had to build a rollercoaster made from only straws and tape. It had to have a loop and carry the weight of a tennis ball. Our group focused on building a rollercoaster that had great structure and would not collapse, however this meant that we did not have sufficient time to make it very complicated. While we did succeed in having proper structure, I would have liked to make it more complicated and interesting if we had more time. This task taught me a lot about teamwork and time management.
+
 
 
 
