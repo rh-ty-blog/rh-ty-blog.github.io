@@ -49,6 +49,15 @@ We then had the opportunity to hear from the interns about student life. They ga
 
 Finally, we had a two-hour engineering task where we had to build a rollercoaster made from only straws and tape. It had to have a loop and carry the weight of a tennis ball. Our group focused on building a rollercoaster that had great structure and would not collapse, however this meant that we did not have sufficient time to make it very complicated. While we did succeed in having proper structure, I would have liked to make it more complicated and interesting if we had more time. This task taught me a lot about teamwork and time management.
 
+Overall, I found some aspects of today challenging, but I like to be challenged! I learned a lot of valuable lessons today. My favourite part of the day was probably the engineering task, but I found all of today's activities to be very interesting and informative. As the days progress, I find myself becoming increasingly drawn to working with computers.
+
+### Thursday, November 20th ###
+
+Today was my fourth day at Red Hat on work experience, and it has probably been my favourite so far! At 09:30 to begin our day, Nigel began our daily stand-up. Over time, I have become a lot more comfortable doing the daily stand-up. As someone who is reserved, I consider that a valuable skill that I learned here at Red Hat.
+
+After our daily stand-up, James spoke to us about AI. He quizzed us on the logos of AI applications and then told us about Notebooklm. I was very intrigued by this platform, especially by the AI generated podcasts and quizzes.
+
+Later in the day, Shaun told us about coral reefs and showed us a 
 
 
 
