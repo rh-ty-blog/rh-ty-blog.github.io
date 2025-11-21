@@ -6,6 +6,12 @@ Tuesday - We started off today with a daily stand-up, where I reminded everybody
 ---
 Wednesday - We just had our daily stand-up. I found it to be an enjoyable thing, even though I could hear my heartbeat. James gave us a talk on the history of computing which most of us found very interesting, and he even included a story about his old startup company where a fake-santa flight managed to shut down a whole airlines app tht they were hosting on their servers. We also got a 'student life' talk where we discovered that we are able to change our career path whenever we want in life, and that it's best to stick away from arts degrees. I also played Switch Sports bowling with Tjay and Kai at lunch. We finished off with a team-building exercise where we were split into three groups of four and built roller-coasters from paper straws. That was great since we learned a lot about working together and needing to lock-in from the beginning, instead of dossing around until the last thirty minutes of the exercise.
 ---
+Thursday - We once again started off with a daily stand-up. We had breakfast at ten and it was FREE so i grabbed three sausages, a jambon, a blaa and a hot chocolate. We were told how to use notebooklm, which is a small language model made by google where you can give it specific information which it analyses, and used it to make AI summaries of our journals, aswell as podcasts. For some reason when the whole groups entries were all uploaded to notebooklm, the model seemed to use my journal as one of the main sources for it's information when we made a quiz, likely because of my informative writing style. after, we used a website where we contributed to the training of an AI that will be used to detect different species of coral in reefs.We then had lunch, where we played Mario Kart. Since I was the best, I waited around fifteen seconds after the start of the race before I started driving. I won all but one game, where I came second to a bot. Finally, we made presentations on rain gardens using AI tools. They all noticably lacked personality, other than the one bye Kai and Aedan which included some funny grapics. I did mine with TJay. I also drank a can of Fanta.
+---
+Friday -
+
+
+
 
 
 
