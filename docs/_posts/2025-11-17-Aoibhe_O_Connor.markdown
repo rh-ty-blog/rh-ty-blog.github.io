@@ -94,6 +94,7 @@ I gained an immense amount of knowledge this week and everything that I have lea
 
 This week has been hands-down the best week of Transition Year yet -- and I highly doubt that it will be topped! 
 
+Finally, we had a two-hour engineering task where we had to build a rollercoaster made from only straws and tape. It had to have a loop and carry the weight of a tennis ball. Our group focused on building a rollercoaster that had great structure and would not collapse, however this meant that we did not have sufficient time to make it very complicated. While we did succeed in having proper structure, I would have liked to make it more complicated and interesting if we had more time. This task taught me a lot about teamwork and time management.
 
 
 
