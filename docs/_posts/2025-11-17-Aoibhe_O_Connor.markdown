@@ -43,11 +43,16 @@ Today was my third day at Red Hat's Transition Year Programme. I arrived as usua
 
 After our daily stand-up, James gave us a really interesting presentation about the history of computing. He discussed the evolution of technology and prompted us to think about what technology might be available in the future. He also told us about many of the different jobs that are available to those who study computer science, which I found very useful and encouraged me to further consider studying computer science at university. Overall, James provided us with lots of facts and advice that I will carry with me beyond this week at Red Hat.
 
-Later on, Grainne gave us a presentation on Bash. She made this experience very fun by making us match the command to the definition in pairs. We were taught the basic terminology of Bash and put our knowledge to practice in the terminal.  
+Later on, Grainne gave us a presentation on Bash. She made this experience very fun by making us match the command to the definition in pairs. We were taught the basic terminology of Bash and put our knowledge to practice in the terminal. At first, I found bash a little confusing, but as we progressed I got the hang of it, just as I did with Python. This reminded me that practice makes perfect and the more time I spend bettering my coding skills, the more comfortable I will get.
 
 We then had the opportunity to hear from the interns about student life. They gave us plenty of valuable advice about choosing a career and assured us that the Leaving Cert does not define our future! Their words gave me a lot of clarity on choosing a university course, especially since I am drawn to creative ventures.
 
-Finally, we had a two-hour engineering task where we had to build a rollercoaster made from only straws and tape. It had to have a loop and carry the weight of a tennis ball. Our group focused on building a 
+Finally, we had a two-hour engineering task where we had to build a rollercoaster made from only straws and tape. It had to have a loop and carry the weight of a tennis ball. Our group focused on building a stable coaster that would definitely be able to hold the weight of the ball, however, this meant that we had to sacrafice a complex design due to the two-hour time limit. This project taught me a lot about teamwork and time management. I would have loved to redo this task with more time.
+
+Today was challenging in some areas, which I actually appreciate, as I love to be challenged. But overall, I cannot believe how much enjoyment and value I have received over the past three days. I also think that today was very diverse in terms of what we learned about, as we incorporated history, computer science, engineering and career advice into just one day! Reflecting on my highlights of the day, I think that my favourite activity was the engineering task.
+
+
+
 
 
 
