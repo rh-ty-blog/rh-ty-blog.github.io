@@ -17,4 +17,9 @@ Wednesday, in comparison to the previous two days, was more talk-oriented. We re
 
 ![20251119_160005](https://github.com/user-attachments/assets/9429c27c-adb3-4c0b-8745-6389d7f498c2)
 
+### Thursday
+Already the second-last day of this year's Red Hat TY work experience, the week seems to have sped by. Today we focused more so on AI, its foundations and implementation. We recieved another facinating talk, this time concerning AI and got to play around with Google's Notebook LM - a platform that allows you to create your own personal language model with your chosen sources as a base. 
 
+
+### Friday
+Today is my last day here at Red Hat. The week seems to have gone by too quickly. Overall, I really enjoyed the experience and I feel I have learned much from this experience. I also got to meet a lot of new people in and running the TY program. I came into this program to see what worklife was all about here and it seems to be an area I would like to work in in the future.
