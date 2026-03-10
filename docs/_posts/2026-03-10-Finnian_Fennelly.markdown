@@ -1,1 +1,4 @@
+# Day 1
+I came in very early at 9am and I went upstairs to the reception to be let in then I signed in with my name and email then we went into the bolger suite and then we all sat down in a group then got a tour of red hat after that we played mario kart and tennis then soon after we ate lunch and then we went back to the bolger suite and my group made a potato head and our design was evil spiderman and the opposite of spiderman we done ironman for the 2nd one and then we got a 10 minute break and I played darts with my friend and then we went back to working on the potato heads in our seperate groups then we got rated on how scary it was we had a product owner, scrum master, developer and then went home at 4pm.
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/efe98838-1d21-4b05-a136-793e35c446cd" />
 
