@@ -9,4 +9,5 @@ The day started at 9:30, where I and about 10 other TY students began our first 
 | 3rd - Mazin |
 | 4th - Shane |
 
-I won every match I played until the very lasst one where Jordan over took me at the very last second. But afterwards I organised a couple of matches of Super Smash Bros,
+I won every match I played until the very lasst one where Jordan over took me at the very last second. But afterwards I organised a couple of matches of Super Smash Bros, fortunatly no one else really knew how to play so I always won (ego boost). After that we began some casual matches of Switch Sports, starting with tennis, then going to bowling and chambara. I played a match of pool and absolutly sucked at it, but by then break was over. We were then given a presentation about AGILE and then used the information to create some Mr. Potato heads, which was the final activity of the day.
+
