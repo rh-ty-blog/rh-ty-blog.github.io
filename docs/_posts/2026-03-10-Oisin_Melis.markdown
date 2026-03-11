@@ -18,10 +18,32 @@ We played a Mario Kart tournament
 
 **14:00**
 
-We learned a software development methodology called agile
+We learned a software development principles called Agile
 
 **What we learned**
 
 What is a scrum
+
 How agile works
+
 How to work with issue such as sudden changes while making mr potato heads
+
+## Day 2
+
+**9:30** 
+
+Stand Up with Nigel
+
+**10:00**
+
+Git/github with Shadrach 
+
+Learned how repos work
+
+How to push,pull and fork
+
+**11:30**
+
+Python with Daniels and Stefan
+
+Learned the basics 
