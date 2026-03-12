@@ -27,9 +27,10 @@ Then we began a python course, I already knew how to do all the things we were b
 
 # TY WORK EXPERIENCE WITH RED HAT - DAY 3
 
-The third day of work experience started with another stand up, which was followed by a talk about the history of computing and the different jobs within it from James. After that we had a workshop about Bash and CLI with Jordan and Filip which ended with a fun treasure hunt game.
+The third day of work experience started with another stand up, which was followed by a talk about the history of computing and the different jobs within it from James, the talk was very interesting but was a little boring at some parts. After that we had a workshop about Bash and CLI with Jordan and Filip which ended with a fun treasure hunt game. I was able to find the treasure pretty quickly.
 
 ![Github Logo](https://www.devopsschool.com/blog/wp-content/uploads/2023/12/image-155.png)
 
-We then had a talk with the iterns about what it was like to work with Red Hat and their exerience there. During lunch a played some pool and sucked slightly less but still lost. The day ended with us desperatly trying to make a looping roller coaster using a ball and contruction straws.
+We then had a talk with the iterns about what it was like to work with Red Hat and their experience there, which ended up giving me some good insight. During lunch a played some pool and sucked slightly less but still lost. The day ended with us desperatly trying to make a looping roller coaster using a ball and contruction straws. I wasn't able to finish before the time limit but I still enojyed the process
+
 
