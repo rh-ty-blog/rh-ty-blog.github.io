@@ -47,3 +47,37 @@ How to push,pull and fork
 Python with Daniels and Stefan
 
 Learned the basics 
+![Mario Kart](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png)
+
+**14:00**
+
+## Day 3
+
+**9:30** 
+
+Stand Up with Nigel
+
+**10:00** 
+
+History of computing talk with james 
+
+**11:30**
+
+Done a bash/cli workshop with Jordan and Filip where we had to find a password in different directories while using the different commands
+
+**2:00**
+
+Built a roller coaster that has a 360 degrees loop but we couldnt get it to loop 
+
+
+## Day 4
+
+**9:30** 
+
+Stand Up with Nigel
+
+**10:00**
+
+Breakfast
+
+
