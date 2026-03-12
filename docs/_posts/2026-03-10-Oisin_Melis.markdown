@@ -78,6 +78,10 @@ Stand Up with Nigel
 
 **10:00**
 
-Breakfast
+Breakfast got a blaa with 3 sausages and 2 sausage rolls
+
+**10:30**
+
+James gave us a talk about ai and showed us how notebook lm by google works with demos of survey we done yesterday
 
 
