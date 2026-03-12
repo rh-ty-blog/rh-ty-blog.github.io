@@ -8,5 +8,12 @@ On Tuesday, we started off the day by doing a stand up. We each had to state our
 
 <img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/f83643f2-9162-45ce-9cd0-6301422312fe" />
 
+#Wednesday
+
+On Wednesday, I started the day off by doing a stand up once again. I am glad we did as i finally learned everyones names. After the stand up, we Learned about the history of computing. This was a long presentation given by James. I'm usually not interested in history by i really enjoyed his presentation. We followed this presentation by learning about Bash and CLT. during this, i learned a few CPD codes and slighly improved my coding skills. We were given a small break after that, before the interns gave us an insight into student life. They told us what we could expect going into college and gave us many tips. They each talked about their courses and told us about their jobs at RedHat. Lunchtime arrived shortly after this. I once again, walked around RedHat and explored the area around RedHat. Our final workshop of the day was rollercoasters. We were split into teams of 3 and we had to work together to build a rollercoaster out of straws. The other teams did very well but, unfortunately we couldnt make the rollercoaster do a 360 degree loop. Despite this, I think my team did very well. I enjoyed Wednesday very much and hope we do similar activities again.
+
+<img width="800" height="504" alt="image" src="https://github.com/user-attachments/assets/fb93b57e-cc37-462a-a276-d630c294c197" />
+
+
 
 
