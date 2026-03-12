@@ -14,6 +14,14 @@ On Wednesday, I started the day off by doing a stand up once again. I am glad we
 
 <img width="800" height="504" alt="image" src="https://github.com/user-attachments/assets/fb93b57e-cc37-462a-a276-d630c294c197" />
 
+#Thursday
+
+On Thursday, the day began with another stand up with Nigel before enjoying a complimentory breakfast for all of the emploees and TYs. I would've helped myself to some if it wasn't for the meal i ate prior. The food looked delicious and there was a lot to choose from. After that, we were given another presentation by James. This time it was about Ai and its abilities. He gave us an excellent example of how advanced the current Ai is by usuing a survey we did on Wednesday and giving it to ai. It was able to do all sorts of impressive things with the information.We then moved on to mindfulness. During this activity, we played a game called the Iowa Project. This included us looking at animals and guessing what kind of animals they were. It was very relaxing and the animals were very cute. After mindfulness, it was time for lunch. I went for a small walk but had to cut it short due to the rain. When we got back from lumch we were split into groups of 2 and 3. In these groups, we had to make a sustainability project based on a heading we were each given. Our presentation was good but i now know i need to work on my presenting skills. Overall, I had a good day. 
+
+
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/83cf3628-1de2-4db0-bba4-1e129f2ca6cc" />
+
+
 
 
 
