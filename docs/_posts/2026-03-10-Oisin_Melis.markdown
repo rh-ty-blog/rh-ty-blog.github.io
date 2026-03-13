@@ -84,4 +84,13 @@ Breakfast got a blaa with 3 sausages and 2 sausage rolls
 
 James gave us a talk about ai and showed us how notebook lm by google works with demos of survey we done yesterday
 
+**12:00**
+
+Rosie done a snapshot Dubeque Iowa snapshot to train an ai to protect wildlife
+
+**14:00**
+
+Done a sustainablity project about rain gardens 
+
+
 
