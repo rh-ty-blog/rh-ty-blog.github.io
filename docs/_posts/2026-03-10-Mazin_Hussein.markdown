@@ -13,10 +13,17 @@ On Tuesday, We did our daily stand-up at 9:30 and talked about what we learned a
 ## Day 3
 *11th March 2026*  
 
-On Wednesday, I arrived at the meeting room and we did our daily stand-up. Then, we had a talk about the hisory of computing. In my opinion it was really ineteresting. After a little break, we started learning about BASH and CLI. Then we did a treasure hunting mission in which we had to use BASH to find the treasure and I enjoyed it a lot. Then we had a talk about student life. All of the interns stood in the front of the room and they all talked about their life as a student. It was very informative and we got to ask a lot of questions
-  
+On Wednesday, I arrived at the meeting room and we did our daily stand-up. Then, we had a talk about the hisory of computing. In my opinion it was really ineteresting. After a little break, we started learning about BASH and CLI. Then we did a treasure hunting mission in which we had to use BASH to find the treasure and I enjoyed it a lot. Then we had a talk about student life. All of the interns stood in the front of the room and they all talked about their life as a student. It was very informative and we got to ask a lot of questions.
+
+## Day 4
+*12th March 2026*  
+
+On Thursday, I arrived at 9:30 at the meeting room. We did our daily stand-up with Nigel and then James came in and gave us a talk about ai. The talk was very interesting and he showed us how to properly use ai with homework or studying. James then showed us Notebook LM and compiled all of our google form entries into a podcast and quiz and it was very cool. Later on, Rosie spoke to us about Snapshot Dubuque Iowa which was a project
+
+
   **bold**
   *italic*
+
 
 
 
