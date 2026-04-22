@@ -4,3 +4,6 @@ We were given a few hours to hang out and get to know eachother. We played pool,
 We were given free snacks and drinks and at 2 o'clock we were back in the meeting room.
 We listened to a talk on AGILE and the principals of software development and then started a workshop on building a Mr Potato head.
 We worked in teams to build the best Mr Potato head and I learned a lot.
+
+# Tuesday
+I arrived at the office and we did a stand up, which is a talk about what we did the day before. We then did a short Github workshop, where we created a repository with a log book of what we do during the week and then started a 2 and a half hour python workshop, which had exercises that got progressively harder. We then had our one hour lunch break, where I had my lunch and played some wii golf. We then continued with the python workshop for an hour after lunch. We then did an activity about cracking passwords.
