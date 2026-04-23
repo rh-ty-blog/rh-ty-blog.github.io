@@ -1,1 +1,2 @@
 # TY work experience in RedHat
+On the first day we were greeted by Jeniffer and the rest of the TY programme staff. We then got a tour of the building and a health and safety talk. After we got some free time to play some games like pool and the Nintendo switch which was very fun. After lunch we got a talk on agile,this was very intresting. We then did an activity using Mr potato heads in groups which was very fun.
