@@ -13,3 +13,7 @@ On wednesday we started off by doing our standups, then we had some time to work
 
 # Thursday Bruda
 On thursday we started the day off by doing our stand ups and working on our diaires. Then we went down to the pantry for hot breakfast, it was very yummy.Then we had a very informative and interesting workshop on AI, and we learned about the tool NotebookLM and its capabilities. Then we were on zooniverse and were identifying pictures of animals on Mont Blanc to gather a census and to train ai. After lunch we were split into groups and had to creat presentations.
+<img width="170" height="200" alt="image" src="https://github.com/user-attachments/assets/dc34524b-8250-45eb-8b6c-f2fe7f6fb1c7" />
+
+# FRIYAY
+Today we started off with our standups and voted on which pizzas we want from dominos at lunch.
