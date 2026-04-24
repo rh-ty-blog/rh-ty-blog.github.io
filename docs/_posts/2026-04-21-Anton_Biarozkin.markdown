@@ -14,3 +14,6 @@ We then listened to a talk about the history of computing. We then listened to a
 
 # Thursday
 We did our morning stand up. We then had breakfast, which included eggs, rashers, sausages and more. we then listened to an inteeresting talk on AI for an hour and a half. Then we did an activity which involved cycling through images of animals in the wild and identifying them, which was interesting. We then had our one hour lunch break, where i played some pool and darts. After lunch we worked in pairs on a project about sustainability and presented them to the group.
+
+# Friday
+We did our morning stand up. Then we listened to a short presentation about raspberry pi, showing what it does and how to program it.
