@@ -13,3 +13,4 @@ I arrived at the office and did a stand up about the previous day. We did a work
 We then listened to a talk about the history of computing. We then listened to a talk with the interns about life as a college student. We then had our 1 hour lunch break, where I played some pool and darts. Then we were building a rollercoaster out of straws for two hours, which was a lot of fun.
 
 # Thursday
+We did our morning stand up. We then had breakfast, which included eggs, rashers, sausages and more. we then listened to an inteeresting talk on AI for an hour and a half. Then we did an activity which involved cycling through images of animals in the wild and identifying them, which was interesting. We then had our one hour lunch break, where i played some pool and darts. After lunch we worked in pairs on a project about sustainability and presented them to the group.
