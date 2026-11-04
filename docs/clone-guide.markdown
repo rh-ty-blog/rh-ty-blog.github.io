@@ -111,3 +111,6 @@ permalink: /git-guide/
 ## Additional resources
 
 * [Deeper site creation Guide](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
+* [Simple step-by-step site creation guide (GitHub Skills)](https://github.com/skills/github-pages)
+* [Comprehensive introduction to Version Control using Git/GitHub](https://tutors.dev/course/git-site-test)
+* [Collect some badges for your GitHub profile by completing simple tasks](https://github.com/Santosh-Prasad-Verma/github-badges)
