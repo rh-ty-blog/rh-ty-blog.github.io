@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Layla Morrissey Blog Entry"
-date:   2026-11-09 12:00:00 +0000
+date:   2026-11-9 12:00:00 +0000
 categories: jekyll update
 ---
 
