@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adam Joyce Blog Entry"
-date:   2026-11-9 12:00:00 +0000
+date:   2026-11-9 12:58:15 +0100
 categories: jekyll update
 ---
 
