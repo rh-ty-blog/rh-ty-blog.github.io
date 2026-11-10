@@ -19,21 +19,11 @@ categories: jekyll update
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
-
-**This is the text area where you can enter your blog details for Monday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+On Monday it was my first day in the Redhat office for my work experience, we started off with an introduction from the interns and all of the Ty students, we did 2 truths and a lie which I found it a fun way to get to know the other Ty students, interns and Redhat employees. Then all the Ty students got a tour of the RedHat office. We were then told what we were going to do for the day and it was written out neatly on a white board.   
+It was a fun day as we played Mario kart but I came third in my first game so I didn't progress further in the tournament but it was very enjoyable, after that I went to the games room to play pool and darts, I'm pretty sure I played well in the darts game as I got a 100 bullseye playing against George which I didn't expect as I don't play darts and it was one of my first times playing, then I went to play pool, there was four of us it was Christian 
 
 
 ---
-
 
 ## Tuesday
 
