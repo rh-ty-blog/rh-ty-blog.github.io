@@ -5,12 +5,9 @@ date:   2026-11-9 12:58:15 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
+## TY Work Experience At RedHat!
 
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
+* This week is a very exciting week where I learn lots more about technology, like Python and Agile.
 
 
 ## Monday
@@ -23,13 +20,13 @@ categories: jekyll update
 
 **This is the text area where you can enter your blog details for Monday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+On Monday, we came in and got a tour of the office. Then we had a very important health and safety meeting. After that we did some ice breakers. They were:
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+* 2 truths and a lie. 
+* What would you do if the internet broke for the day?
+* A Mario Kart tournament.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+I enjoyed the Mario Kart Tournament but I wasn't very good. After lunch we learned about Agile and scrum. We did a project involving Mr. Potato Head. I was the scrum master who had to write up if certain stages were done, in progress or done.
 
 
 ---
