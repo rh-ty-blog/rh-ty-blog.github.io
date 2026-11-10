@@ -23,7 +23,7 @@ categories: jekyll update
 
 **This is the text area where you can enter your blog details for Monday**.
 
-on Monday I arrived and we were given a safety talk the we went on a tour of the office, we were shown the work stations, the canteen and the games room. We then had a mario kart tournament and Aoife won. then i played some pool and had my lunch. after lunch we were given a talk about AGILE which is a work motive people in red hat use to work. finally we did an exercise with mr potato heads practicing our skills with kanban. 
+on Monday I arrived and we were given a safety talk the we went on a tour of the office, we were shown the work stations, the canteen and the games room. We then had a mario kart tournament and Aoife won. then i played some pool and had my lunch. after lunch we were given a talk about AGILE which is a work motive people in red hat use to work. finally we did an exercise with mr potato heads practicing our skills with kanban. hi
 
 
 ---
