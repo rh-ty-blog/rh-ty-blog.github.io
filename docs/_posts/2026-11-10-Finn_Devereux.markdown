@@ -8,7 +8,7 @@ categories: jekyll update
 
 ## Monday
 
-On Monday, we started the day with a tour of the office, seeing all the facilities such as the kitchen, bathrooms, pool table, fire exits, first aid kit, etc. Then I played Mariokart for the first time in a tournament. After that we had lunch where we played more Mariokart and relaxed.
+On Monday, we started the day with a tour of the office, seeing all the facilities such as the kitchen, bathrooms, pool table, fire exits, first aid kit, etc. After that we all played 2 truths and a lie. Then I played Mariokart for the first time in a tournament. After that we had lunch where we played more Mariokart and relaxed.
 
 After lunch, we had a presentation on Agile workflow and scrum. Then, we practiced what we learned and made Mr. Potato heads, where someone was the scrum leader, the product owner, and the developer.
 <img width="225" height="224" alt="image" src="https://github.com/user-attachments/assets/19e14038-f22c-4bab-81cb-322e554f96e0" />
