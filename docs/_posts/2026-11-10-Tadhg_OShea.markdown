@@ -23,9 +23,9 @@ categories: jekyll update
 
 **This is the text area where you can enter your blog details for Monday**.
 
-On Monday we started the day by all meeting in a conference room where we will be based for the week and meeting the other TY students,interns helping us throughout the week and also the person running the course.We then did some ice breakers to help get to know all the people in the room then after we got a tour of the office then got some time to use the rooms with games like pool and ping pong then commenced with a competitive Mario Kart switch tournament
+On Monday we started the day by all meeting in a conference room where we will be based for the week and meeting the other TY students,interns helping us throughout the week and also the person running the course.We then did some ice breakers to help get to know all the people in the room then after we got a tour of the office then got some time to use the rooms with games like pool and ping pong then commenced with a competitive Mario Kart switch tournament.we then had lunch time and after break had a talk about Agile talk with Aine
 
-
+<img width="465" height="372" alt="image" src="https://github.com/user-attachments/assets/0b0c68d3-b4e6-4644-8178-21b08315d105" />
 
 
 ---
