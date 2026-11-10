@@ -5,7 +5,7 @@ date:   2026-11-9 12:58:15 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
+## Welcome To My Blog!
 
 * The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
 * If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
@@ -23,13 +23,9 @@ categories: jekyll update
 
 **This is the text area where you can enter your blog details for Monday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+On Monday we started the day by all meeting in a conference room where we will be based for the week and meeting the other TY students,interns helping us throughout the week and also the person running the course.We then did some ice breakers to help get to know all the people in the room then after we got a tour of the office then got some time to use the rooms with games like pool and ping pong then commenced with a competitive Mario Kart switch tournament
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
 ---
