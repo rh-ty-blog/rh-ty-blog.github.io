@@ -5,7 +5,7 @@ date:   2026-11-9 12:58:15 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
+## Welcome To My Blog!
 
 * The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
 * If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
@@ -23,13 +23,16 @@ categories: jekyll update
 
 **This is the text area where you can enter your blog details for Monday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+On Monday We got to meet and introduce ourselves to everybody,Then we had a tour around the office which was nice as its a very nice office, then we had some ice breakers doing things like 2 truths and 1 lie, MarioKart and pool which were all very enjoyable.Then we learned about AGILE and SCRUM which was very intresting and is key for working in any job not just Red Hat which was very important. overall was a great day and very enjoyable.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+<img width="326" height="312" alt="image" src="https://github.com/user-attachments/assets/5b1e9972-953f-4a7e-a0fd-424dd9a42802" />
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+
+* Getting a nice feel for the office
+*  having good fun
+* leanrning important things
+
+Overall was a very good first day, people are very welcoming and good at teaching i really enjoyed it.
 
 
 ---
