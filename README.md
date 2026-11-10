@@ -4,3 +4,7 @@ This is a repo that aims to teach Transition Year students some of the basics of
 
 Google form
 https://docs.google.com/forms/d/e/1FAIpQLSelic0KZl9BCTWFvTpzQ2JW5cnlDei2cVevVkNvDSLhgeBsbg/viewform
+
+Microbits Workshop
+https://tutors.dev/course/tutors-microbit-course
+
