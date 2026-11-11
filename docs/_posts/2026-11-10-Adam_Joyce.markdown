@@ -21,15 +21,7 @@ categories: jekyll update
 
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Monday was a day to settle in. It was quite the bus journey, as I had to get up around 6:25am. After playing two truths and a lie, we had an office tour before having a small break, then we had a Mariokart Tournament, which Aoife won. We had an hour to relax before lunch, and I had tea, my sandwich, and some snacks. Once lunch was over, we learned about the agile and scrum frameworks, and applied these teamwork and planning skills, through using Kanban charts, to making Mr Potato Heads based on the themes of either Wizard, Hero, or Villain. Our group made a villain, being a crossover between a pirate and Darth Vader. After filling out a reflection form, we headed home. A good way to settle in to the week at Red Hat.
 
 
 ---
