@@ -42,9 +42,12 @@ after lunch we learned about agile and we split into groups and we made a wizard
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
-we started off the day with a standup, saying what we did yesterday. we then learned about GitHub. we Learned what GitHub is, and we also learned what pull requests are. we then made accounts and started editing our blog. 
+we started off the day with a standup, saying what we did yesterday. we got our laptops and we then started learning about GitHub. we Learned
+ what GitHub is, and we also learned what pull requests are. we then made accounts and started editing our blog. 
  
+we then started learning all about python and how to use it. we learned all the fundamentals and we also played a monopoly game. 
 
+after that we played a game where we crack passwords and also filled in a survey 
 
 
 ---
