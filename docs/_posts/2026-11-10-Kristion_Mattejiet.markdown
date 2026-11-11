@@ -51,10 +51,14 @@ Overall was a very good first day, people are very welcoming and good at teachin
 On Tuesday the main thing we did was learn python, I found this very intresting. my prior knowledge of coding helped me and i really got a good understanding for the python language. We made a monoplay game and i finished on 55 euros. overall it was a very good leanrning experience and i really enjoyed it. At the start of the day we leanred about a really useful app called BitHub and we got all set up for the week.
 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+<img width="251" height="137" alt="image" src="https://github.com/user-attachments/assets/4f581693-e24e-42f2-afa7-1ecb65ee472d" />
 
 
----
+the 2 key points we learned:
+
+All About GitHub, getting set up and leanrning.
+All about Python and learning all the basics.
+
 
 
 ## Wednesday
