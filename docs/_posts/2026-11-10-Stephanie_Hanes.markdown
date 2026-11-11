@@ -14,7 +14,6 @@ categories: jekyll update
 
 
 ## Monday
-brother
 
 ---
 
