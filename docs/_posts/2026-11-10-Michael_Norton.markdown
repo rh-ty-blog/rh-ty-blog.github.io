@@ -19,7 +19,8 @@ categories: jekyll update
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+<img width="1200" height="1219" alt="image" src="https://github.com/user-attachments/assets/371c7385-f64e-4de5-a297-5918aeee7956" />
+
 
 **This is the text area where you can enter your blog details for Monday**.
 
@@ -33,9 +34,8 @@ on Monday I arrived and we were given a safety talk the we went on a tour of the
 
 
 ---
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/37e40795-dc81-488d-a0fe-e6cd191b891e" />
 
-
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
