@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## TY Work Experience At RedHat!
 
-This was is a very enjoyable week where I learned lots more about technology, like Python and Agile.
+This was a very enjoyable week where I learned lots more about technology, like Python and Agile.
 
 
 ## Monday
