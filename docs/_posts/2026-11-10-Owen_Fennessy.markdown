@@ -17,10 +17,13 @@ categories: jekyll update
 
 
 ---
-
+I am from De la Salle College Waterford
 
 On Monday it was my first day in the Redhat office for my work experience, we started off with an introduction from the interns and all of the Ty students, we did 2 truths and a lie which I found it a fun way to get to know the other Ty students, interns and Redhat employees. Then all the Ty students got a tour of the RedHat office. We were then told what we were going to do for the day and it was written out neatly on a white board.   
-It was a fun day as we played Mario kart but I came third in my first game so I didn't progress further in the tournament but it was very enjoyable, after that I went to the games room to play pool and darts, I'm pretty sure I played well in the darts game as I got a 100 bullseye playing against George which I didn't expect as I don't play darts and it was one of my first times playing, then I went to play pool, there was four of us it was Christian 
+     It was a fun day as we played a Mario kart tournament but I came third in my first game so I didn't progress further in the tournament but it was very enjoyable, after that I went to the games room to play pool and darts, I'm pretty sure I played well in the darts game as I got a 100 bullseye playing against George which I didn't expect as I don't play darts and it was one of my first times playing, then I went to play pool, there was four of us it was Tadhg and Christian in one team and Nigel and I in the other team, sadly we lost but we tried our best and had good fun. 
+     After that we had lunch, its great because during lunch we got to eat all the snacks and they were free, there is coffee, tea, chocolate and crisps all for free. 
+During lunch we got to use the games room again and we all played pool and darts again. 
+
 
 
 ---
