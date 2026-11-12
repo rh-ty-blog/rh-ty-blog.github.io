@@ -19,15 +19,15 @@ After lunch, we had a presentation on Agile workflow and scrum. Then, we practic
 
 
 ## Tuesday
-
-
-
+On Tuesday, we had our first stand up ever. First we watched the employees and interns do it, then we tried it ourselves. After that we got our laptops and created a GitHub account
 
 ---
 
 
 ## Wednesday
+On Wednesday, we started the day with a stand up. After that, Will showed us the basics of bash. Then, we played Over the Wire. After, we watched a presentation on the Cloud and the history behind it. Then, all the interns shared their stories on how they came to Red Hat and their education background.
 
+Then we had an hour for lunch where I relaxed and played ping pong. After lunch, we had to design a roller coaster with a 360 degree loop in it with plastic straws and connector pieces in our groups. 
 
 ---
 
