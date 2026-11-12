@@ -11,7 +11,7 @@ categories: jekyll update
 On Monday, we started the day with a tour of the office, seeing all the facilities such as the kitchen, bathrooms, pool table, fire exits, first aid kit, etc. Then I played Mariokart for the first time in a tournament. After that we had lunch where we played more Mario Kart and relaxed.
 
 After lunch, we had a presentation on Agile workflow and scrum. Then, we practiced what we learned and made Mr. Potato heads, where someone was the scrum leader, the product owner, and the developer. Our group had to make a wizard themed Mr. Potato Head.
-<img width="225" height="224" alt="image" src="https://github.com/user-attachments/assets/19e14038-f22c-4bab-81cb-322e554f96e0" />
+![Mr. Potato Head](<img width="225" height="224" alt="image" src="https://github.com/user-attachments/assets/19e14038-f22c-4bab-81cb-322e554f96e0" />)
 
 
 
@@ -27,7 +27,9 @@ On Tuesday, we started the day doing our first stand up, watching the workers do
 
 
 ## Wednesday
+On Wednesday, we started the day with a stand up. After that, Will showed us the basics of bash. Then, we played Over the Wire. After, we watched a presentation on the Cloud and the history behind it. Then, all the interns shared their stories on how they came to Red Hat and their education background.
 
+Then we had an hour for lunch where I relaxed and played ping pong. After lunch, we had to design a roller coaster with a 360 degree loop in it with plastic straws and connector pieces in our groups. 
 
 ---
 
