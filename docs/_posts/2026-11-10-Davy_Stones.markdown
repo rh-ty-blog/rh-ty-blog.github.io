@@ -65,7 +65,7 @@ On Wednesday, we came in and had another standup. Then we did some more work on 
 * AI datacentres
 
 Then the interns told us about there life and how they got into RedHat. After that, we did a group activity where we made a rollercoaster out of straws. This was to teach us about teamwork. 
-![RollerCoaster](https://mail.google.com/mail/u/0?ui=2&ik=2f9a7f4459&attid=0.1&permmsgid=msg-a:r-5153748308996538864&th=1a1cf9279be49150&view=att&disp=safe&realattid=1a1cf926ab29f0ed9eb1&zw)
+
 
 ---
 
@@ -80,13 +80,11 @@ Then the interns told us about there life and how they got into RedHat. After th
 
 **This is the text area where you can enter your blog details for Thursday**.
 
-On Thursday, we came in and had a Town Hall. This is where people from RedHat and IBM come into one room and talk about any new changes or any news. Then there was breakfast. Next, we had a standup. After that, we learned about Zooniverse, which is a website where people can help researchers by looking at photos and answering questions on it. After lunch we did a sustainablility project.
+On Thursday, we came in and had a Town Hall. This is where people from RedHat and IBM come into one room and talk about any new changes or any news. Then there was breakfast. Next, we had a standup. After that, we learned about Zooniverse, which is a website where people can help researchers by looking at photos and answering questions on it. 
+After lunch we did a sustainablility project. Our project was 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+
 
 ---
 
