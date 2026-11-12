@@ -63,15 +63,7 @@ Today was quite interesting. In the morning, we covered Bash commands in the Lin
 
 ![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
 
-**This is the text area where you can enter your blog details for Thursday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Today was a little unusual. We had a beautiful breakfast this morning, with hash browns, sausages, rashers, sausage rolls, and jambons. Afterwards, Monsur talked about the Zooniverse, where we could all contribute to scientific discoveries, then James from IBM delivered a second talk, this time about AI and responsible usage. He delivered a demonstration of Gemini Notebook, and the quiz that the AI created from our survey results had a lot about me. I had a sandwich, a hot chocolate, an apple, and a Twirl for lunch, after which we made presentations about sustainable use of technology. I enjoyed today overall, and James' talk was incredibly interesting.
 
 ---
 
