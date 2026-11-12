@@ -8,9 +8,9 @@ categories: jekyll update
 
 ## Monday
 
-On Monday, we started the day with a tour of the office, seeing all the facilities such as the kitchen, bathrooms, pool table, fire exits, first aid kit, etc. Then I played Mariokart for the first time in a tournament. After that we had lunch where we played more Mariokart and relaxed.
+On Monday, we started the day with a tour of the office, seeing all the facilities such as the kitchen, bathrooms, pool table, fire exits, first aid kit, etc. Then I played Mariokart for the first time in a tournament. After that we had lunch where we played more Mario Kart and relaxed.
 
-After lunch, we had a presentation on Agile workflow and scrum. Then, we practiced what we learned and made Mr. Potato heads, where someone was the scrum leader, the product owner, and the developer.
+After lunch, we had a presentation on Agile workflow and scrum. Then, we practiced what we learned and made Mr. Potato heads, where someone was the scrum leader, the product owner, and the developer. Our group had to make a wizard themed Mr. Potato Head.
 <img width="225" height="224" alt="image" src="https://github.com/user-attachments/assets/19e14038-f22c-4bab-81cb-322e554f96e0" />
 
 
@@ -19,7 +19,9 @@ After lunch, we had a presentation on Agile workflow and scrum. Then, we practic
 
 
 ## Tuesday
-On Tuesday, we had our first stand up ever. First we watched the employees and interns do it, then we tried it ourselves. After that we got our laptops and created a GitHub account
+On Tuesday, we started the day doing our first stand up, watching the workers doing it first and then we tried it. Then, we got our laptops and made GitHub accounts and we started writing our blog for Monday. After that, we opened the terminal and downloaded python. Then we wrote our first lines of code in python. We learned values + variables, if conditionals + statements, and for loops. After that we played Monopoly.
+
+
 
 ---
 
