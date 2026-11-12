@@ -30,7 +30,7 @@ On Monday I arrived at the red hat office. I met the other ty students and the w
 * Me (TY) in third place
 
 I would've won if  hadn't dropped the ball in Bowser's castle :(
-After our lunch break we learned about AGILE workflow and scrums. We were put into separate teams and given the goal of making a mister potato head using the Scrum workflow.I was the project owner and 
+After our lunch break we learned about AGILE workflow and scrums. We were put into separate teams and given the goal of making a mister potato head using the Scrum workflow.I was the project owner and we decided to create an iron man mister potato head. I learned a lot about working in a team to design a product.
 
 
 ---
@@ -44,7 +44,7 @@ After our lunch break we learned about AGILE workflow and scrums. We were put in
 
 ![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
 
-On Tuesday started with a stand up with Nigel and afterwards we got our laptops. We learned a lot about Github, which Red Hat uses extremely often.
+On Tuesday started with a stand up with Nigel and afterwards we got our laptops. Evie and Gretel taught us a lot about Github, which Red Hat uses extremely often, then we got started on our blogs. Once that was done we got started on learning Python. I already had some experience thanks to a coding class in third year, which was a little bit of help.
 
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 
