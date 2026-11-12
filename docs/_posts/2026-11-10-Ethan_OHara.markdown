@@ -25,7 +25,7 @@ Yesterday I played Mario Kart. I won a lot except for when it was important that
 
 
 ## Tuesday ##
-
+On Tuesday, we did far more than the day before. We started off with an introduction on GitHub, where we learned about pull requests and how to make and edit projects, like this blog. We then did coding work on Python. We learned about loops and like Monopoly
 
 ---
 
