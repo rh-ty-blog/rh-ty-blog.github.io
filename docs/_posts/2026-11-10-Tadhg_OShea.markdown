@@ -42,6 +42,7 @@ On Monday we started the day by all meeting in a conference room where we will b
 **This is the text area where you can enter your blog details for Tuesday**.
 
 on Tuesday we started the day with a standup with Nigel after that we did GitHub/blogs in the morning just setting it up and showing us how it works then we had a break then did python after break learned alot about that the main basics then had lunch went back to python and did a monopoly simulator game at the end of the day 
+<img width="791" height="445" alt="image" src="https://github.com/user-attachments/assets/5d41c30a-f6d8-4e08-95b2-38af1cd11536" />
 
 ---
 
@@ -56,7 +57,7 @@ on Tuesday we started the day with a standup with Nigel after that we did GitHub
 
 **This is the text area where you can enter your blog details for Wednesday**.
 
-
+On Wednesday we started the day with bash scripting and learning about the it was harder than the other coding i have done but still enjoyed it and the had the talk about cloud computing with James from IbM
 ---
 
 
