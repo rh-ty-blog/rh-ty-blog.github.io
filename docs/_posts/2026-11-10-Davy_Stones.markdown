@@ -26,7 +26,7 @@ On Monday, we came in and got a tour of the office. Then we had a very important
 * What would you do if the internet broke for the day?
 * A Mario Kart tournament.
 
-I enjoyed the Mario Kart Tournament but I wasn't very good. After lunch we learned about Agile and scrum. We did a project involving Mr. Potato Head. I was the scrum master who had to write up if certain stages were done, in progress or done.
+I enjoyed the Mario Kart Tournament but I wasn't very good. After lunch we learned about Agile and scrum. We did a project involving Mr. Potato Head. I was the scrum master who had to write up if certain stages needed to do, in progress or done.
 
 
 ---
@@ -42,13 +42,13 @@ I enjoyed the Mario Kart Tournament but I wasn't very good. After lunch we learn
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+On Tuesday, we came in and were told about GitHub. After we created a GitHub account, we started work on our blogs. Then we learned about Python. We learned about:
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+* Values and variables
+* If conditionals and statements
+* For loops 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+After lunch, we did a Monopoly exercise and I came 4th. Then we cracked a million passwords.
 
 
 ---

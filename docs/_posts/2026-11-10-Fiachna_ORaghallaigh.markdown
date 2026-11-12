@@ -21,16 +21,15 @@ categories: jekyll update
 
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
 
-On Monday I arrived at the red hat office. I met the other ty students and the workers. After going through health and saety we did an office tour. They showed us the "swag wall", which i though was pretty cool. Afterwards we had a highly competitive and superduper serious mario kart tournament! the winners were:
+On Monday I arrived at the red hat office. I met the other TY students and the workers. After going through health and safety we did an office tour. They showed us the "swag wall", which i though was pretty cool. Afterwards we had a highly competitive and super duper serious Mario Kart tournament! the winners were:
 
 * Aoife (TY) in first place
 * Aine (RH) in second place
 * Me (TY) in third place
-* 
-I wouldve won if  hadnt dropped the ball in bowsers castle :(
 
+  I wouldve won if  hadnt dropped the ball in bowsers castle :(
+After our lunch break we learned about AGILE workflow and scrums. We were put into separate teams and given the goal of making a mister potato head using the Scrum workflow
 ---
 
 
@@ -42,10 +41,8 @@ I wouldve won if  hadnt dropped the ball in bowsers castle :(
 
 ![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Tuesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
+On Tuesday started with a stand up with Nigel and afterwards we got our laptops. We learned a lot about Github, which Red Hat uses extremely often.
 * Mauris laoreet fermentum ante, non pulvinar lectus. 
 * Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
 * Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
