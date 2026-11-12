@@ -21,7 +21,6 @@ categories: jekyll update
 
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
 
 Today we got a tour of the whole office. It was really big and really cool. My favourite part was the wall with all the stickers. We then got a health and safety talk. after that we did an ice breaker. We played 2 truths and a lie. 
 
@@ -40,11 +39,14 @@ after lunch we learned about agile and we split into groups and we made a wizard
 
 ![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Tuesday**.
 
-we started off the day with a standup, saying what we did yesterday. we then learned about GitHub. we Learned what GitHub is, and we also learned what pull requests are. we then made accounts and started editing our blog. 
+
+we started off the day with a standup, saying what we did yesterday. we got our laptops and we then started learning about GitHub. we Learned
+ what GitHub is, and we also learned what pull requests are. we then made accounts and started editing our blog. 
  
+we then started learning all about python and how to use it. we learned all the fundamentals and we also played a monopoly game. 
 
+after that we played a game where we crack passwords and also filled in a survey 
 
 
 ---
@@ -58,15 +60,14 @@ we started off the day with a standup, saying what we did yesterday. we then lea
 
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
-**This is the text area where you can enter your blog details for Wednesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+On Wednesday we did a stand up first thing in the morning. After the stand up, we learned about bash and how to use it. we tried all the different commands and also did a quiz.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+ we then got to hear about how the interns ended up in red hat and their stories, and got to ask them any questions. it was really interesting and we got great advice about picking courses and the leaving cert. 
+
+In the afternoon we split into groups and had to make a rollercoaster out of straws. it had to have a loop, and it was really hard to come up with ideas.
+we drew out an idea and started building it. we finished just before 4 o clock.
 
 
 ---
@@ -80,15 +81,12 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 ![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
 
-**This is the text area where you can enter your blog details for Thursday**.
+We started off the day with breakfast. after breakfast we did a standup, we learned about zooniverse. we got do pick a subject we liked, and helped with projects and research people are doing all around the world. I did some on cells and wildlife. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+after zooniverse we got a talk on AI. it was really entertaining and I learned alot of stuff I didnt know about AI. we learned about nootbook. I am defintely going to use it for when I have exams.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+after lunch we did a sustainabilty project. out topic was rain gardens. we had to use AI to give us the information for the slides. we then presented our projects.
 
 ---
 

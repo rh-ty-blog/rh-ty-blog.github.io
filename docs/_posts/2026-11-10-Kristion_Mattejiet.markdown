@@ -48,16 +48,17 @@ Overall was a very good first day, people are very welcoming and good at teachin
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+On Tuesday the main thing we did was learn python, I found this very intresting. my prior knowledge of coding helped me and i really got a good understanding for the python language. We made a monoplay game and i finished on 55 euros. overall it was a very good leanrning experience and i really enjoyed it. At the start of the day we leanred about a really useful app called BitHub and we got all set up for the week.
 
 
----
+<img width="251" height="137" alt="image" src="https://github.com/user-attachments/assets/4f581693-e24e-42f2-afa7-1ecb65ee472d" />
+
+
+the 2 key points we learned:
+
+All About GitHub, getting set up and leanrning.
+All about Python and learning all the basics.
+
 
 
 ## Wednesday
@@ -70,16 +71,9 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 **This is the text area where you can enter your blog details for Wednesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+On Wednesday we started our day with standup like usual, then we had a bash scripting course/presentation where we learned all about bash programming which was very intresting.Then we had the talk with James from IBM about cloud computing and all of the possibilities in tech which was very good because i am intrested in going into the IT and computer sectors of work. Then to finish off the day we had a really Fun team building exercise with building the rollercoasters together trying to make a 360 degree loop which was hard but a very good exersise to finish off the day.
 
 
----
 
 
 ## Thursday
