@@ -60,13 +60,13 @@ After lunch, we did a Monopoly exercise and I came 4th. The Monopoly exercise wa
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
 
-On Wednesday, we came in and had another standup. Then we did some more work on our blogs.
+On Wednesday, we came in and had another standup. Then we did some more work on our blogs. After that, we learned about Bash and CLI and we played a game called overthewire. Next, we had a talk about cloud computing. This talk involved:
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+* Jobs in technology/coding.
+* Past, present and future of technology
+* AI datacentres
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Then the interns told us about there life and how they got into RedHat. After that, we did a group activity where we made a rollercoaster out of straws. This was to teach us about teamwork. 
 
 
 ---
