@@ -35,7 +35,7 @@ During lunch we got to use the games room again and we all played pool and darts
 
 ---
 
-On Tuesday we started the day with a Stand up with Nigel (git break python monopoly) 
+On Tuesday we started the day with a Stand up with Nigel afterwards we all got our laptops for the first time and were introduced to github, on github started off by making our own github accounts and setting up the laptops, on the laptops we used our own gmail accounts. In github after making our accounts we all started a blog, i began my blog on just my experience in redhat office day by day and this is the blog so. after that we got our lunch break. After lunch we got started on python, python on this day was on of my first times being introduced to code aside from being introduced to code in scratch in school and suff like that. (git break python monopoly) 
 
 
 
@@ -46,7 +46,7 @@ On Tuesday we started the day with a Stand up with Nigel (git break python monop
 
 
 ---
-
+ 
 
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
