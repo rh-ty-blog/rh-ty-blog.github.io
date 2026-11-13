@@ -65,7 +65,7 @@ On Wednesday, we came in and had another standup. Then we did some more work on 
 * AI datacentres
 
 Then the interns told us about there life and how they got into RedHat. After that, we did a group activity where we made a rollercoaster out of straws. This was to teach us about teamwork. 
-
+![RollerCoaster](https://raw.githubusercontent.com/rh-ty-blog/rh-ty-blog.github.io/05bcfafa8327faec068fc4e118ff99d61c77171c/docs/images/blog_photos/rollercoaster.jpg)
 
 ---
 
