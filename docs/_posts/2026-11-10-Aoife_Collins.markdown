@@ -46,7 +46,7 @@ we started off the day with a standup, saying what we did yesterday. we got our 
  
 we then started learning all about python and how to use it. we learned all the fundamentals and we also played a monopoly game. 
 
-after that we played a game where we crack passwords and also filled in a survey 
+after that we played a game where we crack passwords and also filled in a survey. 
 
 
 ---
@@ -84,7 +84,7 @@ we drew out an idea and started building it. we finished just before 4 o clock.
 We started off the day with breakfast. after breakfast we did a standup, we learned about zooniverse. we got do pick a subject we liked, and helped with projects and research people are doing all around the world. I did some on cells and wildlife. 
 
 
-after zooniverse we got a talk on AI. it was really entertaining and I learned alot of stuff I didnt know about AI. we learned about nootbook. I am defintely going to use it for when I have exams.
+after zooniverse we got a talk on AI. it was really entertaining and I learned alot of stuff I didnt know about AI. we learned about google notebook. I am definitely going to use it for when I have exams.
 
 after lunch we did a sustainabilty project. out topic was rain gardens. we had to use AI to give us the information for the slides. we then presented our projects.
 
@@ -95,14 +95,15 @@ after lunch we did a sustainabilty project. out topic was rain gardens. we had t
 
 ![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
 
-**This is the text area where you can enter your blog details for Friday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+We started off the day with a standup. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+
+
+
+
+
+
 
 ---
