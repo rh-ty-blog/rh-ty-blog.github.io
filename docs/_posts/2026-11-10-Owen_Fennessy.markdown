@@ -35,8 +35,10 @@ During lunch we got to use the games room again and we all played pool and darts
 
 ---
 
-On Tuesday we started the day with a Stand up with Nigel afterwards we all got our laptops for the first time and were introduced to github, on github started off by making our own github accounts and setting up the laptops, on the laptops we used our own gmail accounts. In github after making our accounts we all started a blog, i began my blog on just my experience in redhat office day by day and this is the blog so. after that we got our lunch break. After lunch we got started on python, python on this day was on of my first times being introduced to code aside from being introduced to code in scratch in school and suff like that. (git break python monopoly) 
+On Tuesday we started the day with a Stand up with Nigel afterwards we all got our laptops for the first time and were introduced to github, on github started off by making our own github accounts and setting up the laptops, on the laptops we used our own gmail accounts. In github after making our accounts we all started a blog, i began my blog on just my experience in redhat office day by day and this is the blog so. after that we got our lunch break. After lunch we got started on python, python on this day was on of my first times being introduced to code aside from being introduced to code in scratch in school and stuff like that. 
+     Then we began to learn how to make a game on the terminal, the game was like monopoly but like code and automated and just luck so it wasn't like monopoly the game in my opinion, nonetheless it was very interesting and i enjoyed it,I found Niall a great teacher and easy to understand. 
 
+     
 
 
 ---
@@ -46,25 +48,9 @@ On Tuesday we started the day with a Stand up with Nigel afterwards we all got o
 
 
 ---
- 
 
-![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
-
-**This is the text area where you can enter your blog details for Wednesday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
-
----
-
-
-## Thursday
+On Wednesday we started the day with a stand up like usual with Nigel, then we kicked off the learning with Will and he gave a presentation on Bash coding, we did a password cracking game using bash coding the game was very interesting, afterward we had a talk with James from IBM on cloud computing, it was great, he explained what companies use cloud computing and like how it originated and stuff like that. 
+    Then we had lunch like usual but after lunch we did a game where we made rollercoaster and we had to make the ball roll on the rollercoaster, and the ball had to travel on it and eventually reach a loop and the ball had to complete the loop, there were 3 groups, 2 groups of 4 and 1 group of 3, i was in the group of 3 which we were at an automatic disadvantage but we still made ours look better than the majority, we still didn't make the ball make a loop, but no group did it so we were chillin. We just did that for the rest of the day, it was great fun.
 
 
 ---
