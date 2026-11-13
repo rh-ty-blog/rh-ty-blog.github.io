@@ -78,10 +78,10 @@ Then the interns told us about there life and how they got into RedHat. After th
 
 ![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
 
-**This is the text area where you can enter your blog details for Thursday**.
 
-On Thursday, we came in and had a Town Hall. This is where people from RedHat and IBM come into one room and talk about any new changes or any news. Then there was breakfast. Next, we had a standup. After that, we learned about Zooniverse, which is a website where people can help researchers by looking at photos and answering questions on it. 
-After lunch we did a sustainablility project. Our project was 
+On Thursday, we came in and had a Town Hall. This is where people from RedHat and IBM come into one room and talk about any new changes or any news. Then there was breakfast. Next, we had a standup. After that, we learned about Zooniverse, which is a website where people can help researchers by looking at photos and answering questions on it. Then we had a talk on AI and how to use it correctly. We learned about Notebook and all of its features.
+
+After lunch we did a sustainability project. Our project was on Precision Agriculture and IoT for Sustainable Farming. When everyone was finished presenting, we did a few minutes on our blogs.
 
 
 
@@ -93,14 +93,10 @@ After lunch we did a sustainablility project. Our project was
 
 ![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
 
-**This is the text area where you can enter your blog details for Friday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+On Friday, we came in and had a standup. Then we worked on our blogs. After that,
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+ 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 ---
