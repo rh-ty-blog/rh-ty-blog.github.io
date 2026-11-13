@@ -61,9 +61,9 @@ Today was quite interesting. In the morning, we covered Bash commands in the Lin
 ---
 
 
-![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
+![Terminal]()
 
-Today was a little unusual. We had a beautiful breakfast this morning, with hash browns, sausages, rashers, sausage rolls, and jambons. Afterwards, Monsur talked about the Zooniverse, where we could all contribute to scientific discoveries, then James from IBM delivered a second talk, this time about AI and responsible usage. He delivered a demonstration of Gemini Notebook, and the quiz that the AI created from our survey results had a lot about me. I had a sandwich, a hot chocolate, an apple, and a Twirl for lunch, after which we made presentations about sustainable use of technology. I enjoyed today overall, and James' talk was incredibly interesting.
+I really quite enjoyed today. We had a scrumptious breakfast in the morning, where we had sausages, rashers, hash browns, sausage rolls, and jambons. Afterwards, we did our daily stand-up before Monsur demonstrated the Zooniverse, where any normal person could contribute to scientific discoveries. James from IBM delivered his talk about AI and ethical usage before lunch, when I had a sandwich, a hot chocolate, an apple and a Twirl. We made presentations about sustainable technology in the afternoon, and Ethan, Davy and I presented ours on precision farming and IoT. Overall, an interesting day, and once again, I enjoyed James' talk about AI.
 
 ---
 
