@@ -61,17 +61,9 @@ Today was quite interesting. In the morning, we covered Bash commands in the Lin
 ---
 
 
-![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
+![Terminal]()
 
-**This is the text area where you can enter your blog details for Thursday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+I really quite enjoyed today. We had a scrumptious breakfast in the morning, where we had sausages, rashers, hash browns, sausage rolls, and jambons. Afterwards, we did our daily stand-up before Monsur demonstrated the Zooniverse, where any normal person could contribute to scientific discoveries. James from IBM delivered his talk about AI and ethical usage before lunch, when I had a sandwich, a hot chocolate, an apple and a Twirl. We made presentations about sustainable technology in the afternoon, and Ethan, Davy and I presented ours on precision farming and IoT. Overall, an interesting day, and once again, I enjoyed James' talk about AI.
 
 ---
 
