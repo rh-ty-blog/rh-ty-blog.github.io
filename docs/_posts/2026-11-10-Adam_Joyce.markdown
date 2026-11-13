@@ -20,7 +20,7 @@ categories: jekyll update
 
 
 
-![Potato head](../images/blog_photos/Monday.jpg)
+![Potato head](https://github.com/rh-ty-blog/rh-ty-blog.github.io/blob/main/docs/images/blog_photos/Monday.jpg?raw=true)
 
 
 Monday was a day to settle in. It was quite the bus journey, as I had to get up around 6:25am. After playing two truths and a lie, we had an office tour before having a small break, then we had a Mariokart Tournament, which Aoife won. We had an hour to relax before lunch, and I had tea, my sandwich, and some snacks. Once lunch was over, we learned about the agile and scrum frameworks, and applied these teamwork and planning skills, through using Kanban charts, to making Mr Potato Heads based on the themes of either Wizard, Hero, or Villain. Our group made a villain, being a crossover between a pirate and Darth Vader. After filling out a reflection form, we headed home. A good way to settle in to the week at Red Hat.
@@ -35,7 +35,7 @@ Monday was a day to settle in. It was quite the bus journey, as I had to get up 
 ---
 
 
-![Python](../images/blog_photos/Tuesday.jpg)
+![Python](https://github.com/rh-ty-blog/rh-ty-blog.github.io/blob/main/docs/images/blog_photos/Tuesday.jpg?raw=true)
 
 
 Today was a little bit more involved. Firstly, in the morning, we received our laptops, and this is the first time I have used any form of Linux. After booting into Fedora, we signed up to GitHub and started work on these blogs. After a quick break, we then learned a bit about coding in Python, from printing text to for and while loops to if/else conditionals. After lunch (sandwich and hot chocolate), we did a small bit more Python before doing Crack a Million Passwords. It was good fun, if a little laborious at times. Overall, an enjoyable follow up to Monday, and it's nice to actually learn about computer software this time.
@@ -50,7 +50,7 @@ Today was a little bit more involved. Firstly, in the morning, we received our l
 ---
 
 
-![Rollercoaster](../images/blog_photos/Wednesday.jpg)
+![Rollercoaster](https://github.com/rh-ty-blog/rh-ty-blog.github.io/blob/main/docs/images/blog_photos/Wednesday.jpg?raw=true)
 
 
 Today was quite interesting. In the morning, we covered Bash commands in the Linux terminal, after which we had a break in the canteen. After break, James from IBM gave us a talk about cloud computing, which covered web services and the evolution of technology, then the interns told us about how they got to Red Hat. We had a teamwork exercise after lunch, where we had to build rollercoasters where a ball rolls down a ramp over a loop-the-loop. It took a lot of figuring out, and we never got it to work properly. I enjoyed the teamwork exercise, and the talk about cloud computing was right up my alleyway.
@@ -65,7 +65,7 @@ Today was quite interesting. In the morning, we covered Bash commands in the Lin
 ---
 
 
-![Google Notebook](../images/blog_photos/Thursday.jpg)
+![Google Notebook](https://github.com/rh-ty-blog/rh-ty-blog.github.io/blob/main/docs/images/blog_photos/Thursday.jpg?raw=true)
 
 
 Today was a little unusual. We had a beautiful breakfast this morning, with hash browns, sausages, rashers, sausage rolls, and jambons. Afterwards, Monsur talked about the Zooniverse, where we could all contribute to scientific discoveries, then James from IBM delivered a second talk, this time about AI and responsible usage. He delivered a demonstration of Gemini Notebook, and the quiz that the AI created from our survey results had a lot about me. I had a sandwich, a hot chocolate, an apple, and a Twirl for lunch, after which we made presentations about sustainable use of technology. I enjoyed today overall, and James' talk was incredibly interesting.
@@ -76,7 +76,7 @@ Today was a little unusual. We had a beautiful breakfast this morning, with hash
 ## Friday
 
 
-![Raspberry Pi](../images/blog_photos/Friday.jpg)
+![Raspberry Pi](https://github.com/rh-ty-blog/rh-ty-blog.github.io/blob/main/docs/images/blog_photos/Friday.jpg?raw=trueg)
 
 
 **This is the text area where you can enter your blog details for Friday**.
